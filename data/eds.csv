@@ -1,0 +1,773 @@
+din,therapeutic_category,brand_name,generic_name,strength,dosage_form,eds_status
+02273233,CARDIOVASCULAR,,,5/10 mg,,True
+02273284,CARDIOVASCULAR,,,10/10 mg,,True
+02273241,CARDIOVASCULAR,,,5/20 mg,,True
+02273292,CARDIOVASCULAR,,,10/20 mg,,True
+02273268,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,5/40 mg,,True
+02273306,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,10/40 mg,,True
+02273276,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,5/80 mg,,True
+02273314,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,10/80 mg,,True
+02411253,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,5/10 mg,,True
+02411261,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,5/20 mg,,True
+02411288,CARDIOVASCULAR,Caduet amlodipine/atorvastatin Tablet,,5/40 mg,,True
+02411296,CARDIOVASCULAR,Apo-Amlodipine/,,5/80 mg,,True
+02411318,CARDIOVASCULAR,Atorvastatin,,10/10 mg,,True
+02411326,CARDIOVASCULAR,Atorvastatin,,10/20 mg,,True
+02411334,CARDIOVASCULAR,Atorvastatin,,10/40 mg,,True
+02411342,CARDIOVASCULAR,Atorvastatin,,10/80 mg,,True
+02362759,CARDIOVASCULAR,Atorvastatin,,5/10 mg,,True
+02362767,CARDIOVASCULAR,Atorvastatin,,5/20 mg,,True
+02362775,CARDIOVASCULAR,Atorvastatin,,5/40 mg,,True
+02362783,CARDIOVASCULAR,Mylan-Amlodipine/,,5/80 mg,,True
+02362791,CARDIOVASCULAR,Atorvastatin,,10/10 mg,,True
+02362805,CARDIOVASCULAR,Atorvastatin,,10/20 mg,,True
+02362813,CARDIOVASCULAR,Atorvastatin,,10/40 mg,,True
+02362821,CARDIOVASCULAR,Atorvastatin,,10/80 mg,,True
+02446928,CARDIOVASCULAR,Atorvastatin,,24 mg,,True
+02446936,CARDIOVASCULAR,Entresto sacubitril/valsartan,,49 mg,Tablet,True
+02446944,CARDIOVASCULAR,Entresto sacubitril/valsartan,,97 mg,Tablet,True
+02564432,CARDIOVASCULAR,Entresto sacubitril/valsartan,,24 mg,Tablet,True
+02564440,CARDIOVASCULAR,sacubitril/valsartan,,49 mg,Tablet,True
+02564459,CARDIOVASCULAR,Valsartan,,97 mg,Tablet,True
+02549018,CARDIOVASCULAR,Valsartan,,24 mg,Tablet,True
+02549026,CARDIOVASCULAR,sacubitril/valsartan,,49 mg,Tablet,True
+02549034,CARDIOVASCULAR,Valsartan,,97 mg,Tablet,True
+02459973,CARDIOVASCULAR,antagonist,if tolerable,5 mg,Tablet,True
+02459981,CARDIOVASCULAR,Lancora ivabradine hydrochloride Tablet,if tolerable,7.5 mg,Tablet,True
+02531917,CARDIOVASCULAR,Lancora ivabradine hydrochloride Tablet,if tolerable,10mg,Tablet,True
+02531925,CARDIOVASCULAR,Kerendia finerenone Tablet,if tolerable,20mg,Tablet,True
+02459779,CARDIOVASCULAR,Kerendia finerenone Tablet,if tolerable,120 mg,Tablet,True
+02446057,CARDIOVASCULAR,Repatha evolocumab Injection,if tolerable,140 mg,Tablet,True
+02495244,CARDIOVASCULAR,Vascepa icosapent ethyl,if tolerable,1 G,Capsule,True
+02242115,AUTONOMIC DRUGS,Vascepa icosapent ethyl,if tolerable,1.5 mg,Capsule,True
+02242116,AUTONOMIC DRUGS,Vascepa icosapent ethyl,if tolerable,3 mg,Capsule,True
+02242117,AUTONOMIC DRUGS,Exelon rivastigmine Capsule,if tolerable,4.5 mg,Capsule,True
+02242118,AUTONOMIC DRUGS,Exelon rivastigmine Capsule,if tolerable,6 mg,Capsule,True
+02245240,AUTONOMIC DRUGS,Exelon rivastigmine,if tolerable,2 mg,Liquid,True
+02336715,AUTONOMIC DRUGS,Exelon rivastigmine,if tolerable,1.5 mg,Liquid,True
+02336723,AUTONOMIC DRUGS,Exelon rivastigmine,if tolerable,3 mg,Liquid,True
+02336731,AUTONOMIC DRUGS,Apo-Rivastigmine rivastigmine Capsule,if tolerable,4.5 mg,Liquid,True
+02336758,AUTONOMIC DRUGS,Apo-Rivastigmine rivastigmine Capsule,if tolerable,6 mg,Liquid,True
+02485362,AUTONOMIC DRUGS,Apo-Rivastigmine rivastigmine Capsule,if tolerable,1.5 mg,Liquid,True
+02485370,AUTONOMIC DRUGS,Apo-Rivastigmine rivastigmine Capsule,if tolerable,3 mg,Liquid,True
+02485389,AUTONOMIC DRUGS,Jamp-Rivastigmine rivastigmine Capsule,if tolerable,4.5 mg,Liquid,True
+02485397,AUTONOMIC DRUGS,Jamp-Rivastigmine rivastigmine Capsule,if tolerable,6 mg,Liquid,True
+02552256,AUTONOMIC DRUGS,Jamp-Rivastigmine rivastigmine Capsule,if tolerable,1.5 mg,Liquid,True
+02552264,AUTONOMIC DRUGS,Jamp Rivastigmine,if tolerable,3 mg,Liquid,True
+02552272,AUTONOMIC DRUGS,s,if tolerable,4.5 mg,Capsule,True
+02552280,AUTONOMIC DRUGS,s,if tolerable,6 mg,Capsule,True
+02401614,AUTONOMIC DRUGS,s,if tolerable,1.5 mg,Capsule,True
+02401622,AUTONOMIC DRUGS,s,if tolerable,3 mg,Capsule,True
+02401630,AUTONOMIC DRUGS,Med-Rivastigmine rivastigmine Capsule,if tolerable,4.5 mg,Capsule,True
+02401649,AUTONOMIC DRUGS,Med-Rivastigmine rivastigmine Capsule,if tolerable,6 mg,Capsule,True
+02324563,AUTONOMIC DRUGS,Med-Rivastigmine rivastigmine Capsule,if tolerable,1.5 mg,Capsule,True
+02324571,AUTONOMIC DRUGS,Med-Rivastigmine rivastigmine Capsule,if tolerable,3 mg,Capsule,True
+02324598,AUTONOMIC DRUGS,Sandoz Rivastigmine rivastigmine Capsule,if tolerable,4.5 mg,Capsule,True
+02324601,AUTONOMIC DRUGS,Sandoz Rivastigmine rivastigmine Capsule,if tolerable,6 mg,Capsule,True
+02518058,AUTONOMIC DRUGS,Breztri Aerosphere 160/,if tolerable,7.2/5.0 mcg,Capsule,True
+02501244,AUTONOMIC DRUGS,Enerzair Breezhaler 50/,if tolerable,150/160 mcg,Capsule,True
+02474522,AUTONOMIC DRUGS,Trelegy Ellipta,if tolerable,150/160 mcg,Capsule,True
+02532247,BLOOD FORMING AND COAGULATION,Trelegy Ellipta,if tolerable,30 mg,Capsule,True
+02532255,BLOOD FORMING AND COAGULATION,Trelegy Ellipta,if tolerable,40 mg,Capsule,True
+02532263,BLOOD FORMING AND COAGULATION,Elonox enoxaparin sodium,if tolerable,60 mg,Injection,True
+02533271,BLOOD FORMING AND COAGULATION,Elonox enoxaparin sodium,if tolerable,80 mg,Injection,True
+02532298,BLOOD FORMING AND COAGULATION,Elonox enoxaparin sodium,if tolerable,100 mg,Injection,True
+02532301,BLOOD FORMING AND COAGULATION,Elonox enoxaparin sodium,if tolerable,120 mg,Injection,True
+02532328,BLOOD FORMING AND COAGULATION,Elonox HP enoxaparin sodium Injection,if tolerable,150 mg,Injection,True
+02507501,BLOOD FORMING AND COAGULATION,Elonox HP enoxaparin sodium Injection,if tolerable,30 mg,Injection,True
+02507528,BLOOD FORMING AND COAGULATION,Elonox HP enoxaparin sodium Injection,if tolerable,40 mg,Injection,True
+02507536,BLOOD FORMING AND COAGULATION,enoxaparin sodium,if tolerable,60 mg,Injection,True
+02507544,BLOOD FORMING AND COAGULATION,enoxaparin sodium,if tolerable,80 mg,Injection,True
+02507552,BLOOD FORMING AND COAGULATION,enoxaparin sodium,if tolerable,100 mg,Injection,True
+02507560,BLOOD FORMING AND COAGULATION,Inclunox-HP,if tolerable,120 mg,Injection,True
+02507579,BLOOD FORMING AND COAGULATION,,biosimilar,150 mg,Injection,True
+02506440,BLOOD FORMING AND COAGULATION,,biosimilar,20 mg,Injection,True
+02506459,BLOOD FORMING AND COAGULATION,,biosimilar,30 mg,Injection,True
+02506467,BLOOD FORMING AND COAGULATION,Noromby,biosimilar,40 mg,Injection,True
+02506475,BLOOD FORMING AND COAGULATION,,biosimilar,60 mg,Injection,True
+02506483,BLOOD FORMING AND COAGULATION,,biosimilar,80 mg,Injection,True
+02506491,BLOOD FORMING AND COAGULATION,,biosimilar,100 mg,Injection,True
+02506505,BLOOD FORMING AND COAGULATION,Noromby HP,biosimilar,120 mg,Injection,True
+02506513,BLOOD FORMING AND COAGULATION,,biosimilar,150 mg,Injection,True
+02509075,BLOOD FORMING AND COAGULATION,,biosimilar,30 mg,Injection,True
+02509083,BLOOD FORMING AND COAGULATION,,biosimilar,40 mg,Injection,True
+02509091,BLOOD FORMING AND COAGULATION,Redesca,biosimilar,60 mg,Injection,True
+02509105,BLOOD FORMING AND COAGULATION,,biosimilar,80 mg,Injection,True
+02509113,BLOOD FORMING AND COAGULATION,,biosimilar,100 mg,Injection,True
+02509121,BLOOD FORMING AND COAGULATION,,biosimilar,300 mg,Injection,True
+02509148,BLOOD FORMING AND COAGULATION,Redesca HP,biosimilar,120 mg,Injection,True
+02509156,BLOOD FORMING AND COAGULATION,,biosimilar,150 mg,Injection,True
+02132621,BLOOD FORMING AND COAGULATION,,biosimilar,2500 IU,Injection,True
+02430789,BLOOD FORMING AND COAGULATION,,biosimilar,3500 IU,Injection,True
+02132648,BLOOD FORMING AND COAGULATION,,biosimilar,5000 IU,Injection,True
+02231171,BLOOD FORMING AND COAGULATION,,biosimilar,25000 IU,Injection,True
+02352680,BLOOD FORMING AND COAGULATION,Fragmin dalteparin,biosimilar,18000IU,Injection,True
+02352648,BLOOD FORMING AND COAGULATION,Fragmin dalteparin,biosimilar,7500 IU,Injection,True
+02352672,BLOOD FORMING AND COAGULATION,Fragmin dalteparin,biosimilar,15000 IU,Injection,True
+02352656,BLOOD FORMING AND COAGULATION,Fragmin dalteparin,biosimilar,10000 IU,Injection,True
+02352664,BLOOD FORMING AND COAGULATION,Fragmin dalteparin,biosimilar,12500 IU,Injection,True
+02236913,BLOOD FORMING AND COAGULATION,Fragmin dalteparin,biosimilar,9500 IU,Injection,True
+02240114,BLOOD FORMING AND COAGULATION,Fraxiparine nadroparin Injection,biosimilar,19000 IU,Injection,True
+02229755,BLOOD FORMING AND COAGULATION,Fraxiparine nadroparin Injection,biosimilar,2500 IU,Injection,True
+02167840,BLOOD FORMING AND COAGULATION,Fraxiparine nadroparin Injection,biosimilar,10000 IU,Injection,True
+02231478,BLOOD FORMING AND COAGULATION,Fraxiparine nadroparin Injection,biosimilar,10000 IU,Injection,True
+02229515,BLOOD FORMING AND COAGULATION,Fraxiparine nadroparin Injection,biosimilar,20000 IU,Injection,True
+02358182,BLOOD FORMING AND COAGULATION,Fraxiparine nadroparin Injection,biosimilar,18000 IU,Injection,True
+02358158,BLOOD FORMING AND COAGULATION,Innohep tinzaparin,biosimilar,3500 IU,Injection,True
+02358166,BLOOD FORMING AND COAGULATION,Innohep tinzaparin,biosimilar,4500 IU,Injection,True
+02358174,BLOOD FORMING AND COAGULATION,Innohep tinzaparin,biosimilar,14000 IU,Injection,True
+02429462,BLOOD FORMING AND COAGULATION,"8,",biosimilar,000/0.4 mL,Injection,True
+02429470,BLOOD FORMING AND COAGULATION,"12,",biosimilar,000/0.6 mL,Injection,True
+02429489,BLOOD FORMING AND COAGULATION,"16,",biosimilar,000/0.8 mL,Injection,True
+02458640,BLOOD FORMING AND COAGULATION,"16,",biosimilar,15 mg,Injection,True
+02458659,BLOOD FORMING AND COAGULATION,Lixiana edoxaban,biosimilar,30 mg,Tablet,True
+02458667,BLOOD FORMING AND COAGULATION,Lixiana edoxaban,biosimilar,60 mg,Tablet,True
+02557282,BLOOD FORMING AND COAGULATION,Lixiana edoxaban,biosimilar,30 mg,Tablet,True
+02557290,BLOOD FORMING AND COAGULATION,Jamp Edoxaban edoxaban Tablet,biosimilar,60 mg,Tablet,True
+02553414,BLOOD FORMING AND COAGULATION,Jamp Edoxaban edoxaban Tablet,biosimilar,15 mg,Tablet,True
+02553422,BLOOD FORMING AND COAGULATION,Sandoz Edoxaban edoxaban,biosimilar,30 mg,Tablet,True
+02553430,BLOOD FORMING AND COAGULATION,Sandoz Edoxaban edoxaban,biosimilar,60 mg,Tablet,True
+02554208,BLOOD FORMING AND COAGULATION,Sandoz Edoxaban edoxaban,biosimilar,15 mg,Tablet,True
+02554216,BLOOD FORMING AND COAGULATION,Teva-Edoxaban edoxaban,biosimilar,30 mg,Tablet,True
+02554224,BLOOD FORMING AND COAGULATION,Teva-Edoxaban edoxaban,biosimilar,60 mg,Tablet,True
+02312441,BLOOD FORMING AND COAGULATION,Teva-Edoxaban edoxaban,biosimilar,110 mg,Tablet,True
+02358808,BLOOD FORMING AND COAGULATION,Pradaxa dabigatran Capsule,biosimilar,150 mg,Tablet,True
+02468905,BLOOD FORMING AND COAGULATION,Pradaxa dabigatran Capsule,biosimilar,110 mg,Tablet,True
+02468913,BLOOD FORMING AND COAGULATION,Apo-Dabigatran dabigatran Capsule,biosimilar,150 mg,Tablet,True
+02477777,IRON PREPARATIONS,Monoferric iron,biosimilar,100 mg,Injection,True
+02243716,IRON PREPARATIONS,Venofer iron sucrose,biosimilar,20 mg,Injection,True
+02502917,IRON PREPARATIONS,pms-Iron Sucrose iron sucrose,biosimilar,20 mg,Injection,True
+02239665,IRON PREPARATIONS,Alertec modafinil,biosimilar,100 mg,Tablet,True
+02285398,IRON PREPARATIONS,Apo-Modafinil modafinil,biosimilar,100 mg,Tablet,True
+02430487,IRON PREPARATIONS,Auro-Modafinil modafinil,biosimilar,100 mg,Tablet,True
+02503727,IRON PREPARATIONS,Jamp Modafinil modafinil,biosimilar,100 mg,Tablet,True
+02432560,IRON PREPARATIONS,Mar-Modafinil modafinil,biosimilar,100 mg,Tablet,True
+02530244,IRON PREPARATIONS,Modafinil modafinil,biosimilar,100 mg,Tablet,True
+02420260,IRON PREPARATIONS,Teva-Modafinil modafinil,biosimilar,100 mg,Tablet,True
+02318024,IRON PREPARATIONS,Teva-Modafinil modafinil,biosimilar,10 mg,Tablet,True
+02318032,IRON PREPARATIONS,Teva-Modafinil modafinil,biosimilar,18 mg,Tablet,True
+02318040,IRON PREPARATIONS,Teva-Modafinil modafinil,biosimilar,25 mg,Tablet,True
+02318059,IRON PREPARATIONS,Apo-Atomoxetine atomoxetine Capsule,biosimilar,40 mg,Tablet,True
+02318067,IRON PREPARATIONS,Apo-Atomoxetine atomoxetine Capsule,biosimilar,60 mg,Tablet,True
+02318075,IRON PREPARATIONS,Apo-Atomoxetine atomoxetine Capsule,biosimilar,80 mg,Tablet,True
+02471485,IRON PREPARATIONS,Apo-Atomoxetine atomoxetine Capsule,biosimilar,10 mg,Tablet,True
+02471493,IRON PREPARATIONS,Apo-Atomoxetine atomoxetine Capsule,biosimilar,18 mg,Tablet,True
+02471507,IRON PREPARATIONS,Apo-Atomoxetine atomoxetine Capsule,biosimilar,25 mg,Tablet,True
+02471515,IRON PREPARATIONS,Auro-Atomoxetine atomoxetine,biosimilar,40 mg,Capsule,True
+02471523,IRON PREPARATIONS,Auro-Atomoxetine atomoxetine,biosimilar,60 mg,Capsule,True
+02471531,IRON PREPARATIONS,Auro-Atomoxetine atomoxetine,biosimilar,80 mg,Capsule,True
+02471558,IRON PREPARATIONS,Auro-Atomoxetine atomoxetine,biosimilar,100 mg,Capsule,True
+02445883,IRON PREPARATIONS,Auro-Atomoxetine atomoxetine,biosimilar,10 mg,Capsule,True
+02445905,IRON PREPARATIONS,Auro-Atomoxetine atomoxetine,biosimilar,18 mg,Capsule,True
+02445913,IRON PREPARATIONS,Atomoxetine atomoxetine,biosimilar,25 mg,Capsule,True
+02445948,IRON PREPARATIONS,Atomoxetine atomoxetine,biosimilar,40 mg,Capsule,True
+02445956,IRON PREPARATIONS,Atomoxetine atomoxetine,biosimilar,60 mg,Capsule,True
+02506807,IRON PREPARATIONS,Atomoxetine atomoxetine,biosimilar,10 mg,Capsule,True
+02506815,IRON PREPARATIONS,Atomoxetine atomoxetine,biosimilar,18 mg,Capsule,True
+02506823,IRON PREPARATIONS,Atomoxetine atomoxetine,biosimilar,25 mg,Capsule,True
+02506831,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,40 mg,Capsule,True
+02506858,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,60 mg,Capsule,True
+02506866,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,80 mg,Capsule,True
+02506874,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,100 mg,Capsule,True
+02386410,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,10 mg,Capsule,True
+02386429,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,18 mg,Capsule,True
+02386437,IRON PREPARATIONS,Jamp Atomoxetine atomoxetine,biosimilar,25 mg,Capsule,True
+02386445,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,40 mg,Capsule,True
+02386453,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,60 mg,Capsule,True
+02386461,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,80 mg,Capsule,True
+02386488,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,100 mg,Capsule,True
+02314541,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,10 mg,Capsule,True
+02314568,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,18 mg,Capsule,True
+02314576,IRON PREPARATIONS,Sandoz Atomoxetine atomoxetine,biosimilar,25 mg,Capsule,True
+02314584,IRON PREPARATIONS,Teva-Atomoxetine atomoxetine Capsule,biosimilar,40 mg,Capsule,True
+02314592,IRON PREPARATIONS,Teva-Atomoxetine atomoxetine Capsule,biosimilar,60 mg,Capsule,True
+02362511,IRON PREPARATIONS,Teva-Atomoxetine atomoxetine Capsule,biosimilar,80 mg,Capsule,True
+02284294,IRON PREPARATIONS,Anticonvulsants,biosimilar,150 mg,Capsule,True
+02284308,IRON PREPARATIONS,Apo-Oxcarbazepine oxcarbazepine,biosimilar,300 mg,Tablet,True
+02284316,IRON PREPARATIONS,Apo-Oxcarbazepine oxcarbazepine,biosimilar,600 mg,Tablet,True
+02242068,IRON PREPARATIONS,Apo-Oxcarbazepine oxcarbazepine,biosimilar,300 mg,Tablet,True
+02242069,IRON PREPARATIONS,Trileptal oxcarbazepine Tablet,biosimilar,600 mg,Tablet,True
+02244673,IRON PREPARATIONS,Trileptal oxcarbazepine,biosimilar,60 mg,Liquid,True
+02426862,IRON PREPARATIONS,Trileptal oxcarbazepine,biosimilar,200 mg,Liquid,True
+02426870,IRON PREPARATIONS,Trileptal oxcarbazepine,biosimilar,400 mg,Liquid,True
+02426889,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,600 mg,Liquid,True
+02426897,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,800 mg,Liquid,True
+02537931,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,200 mg,Liquid,True
+02537958,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,400 mg,Liquid,True
+02537966,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,600 mg,Liquid,True
+02537974,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,800 mg,Liquid,True
+02527421,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,200 mg,Liquid,True
+02527448,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,400 mg,Liquid,True
+02527456,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,600 mg,Liquid,True
+02527464,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,800 mg,Liquid,True
+02452936,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,10 mg,Liquid,True
+02452944,IRON PREPARATIONS,Aptiom eslicarbazepine acetate Tablet,biosimilar,25 mg,Liquid,True
+02452952,IRON PREPARATIONS,Brivlera brivaracetam,biosimilar,50 mg,Tablet,True
+02452960,IRON PREPARATIONS,Brivlera brivaracetam,biosimilar,75 mg,Tablet,True
+02452979,IRON PREPARATIONS,Brivlera brivaracetam,biosimilar,100 mg,Tablet,True
+02538679,IRON PREPARATIONS,Brivlera brivaracetam,biosimilar,10 mg,Tablet,True
+02538687,IRON PREPARATIONS,Brivlera brivaracetam,biosimilar,25 mg,Tablet,True
+02538695,IRON PREPARATIONS,Apo-Brivaracetam brivaracetam,biosimilar,50 mg,Tablet,True
+02538709,IRON PREPARATIONS,Apo-Brivaracetam brivaracetam,biosimilar,75 mg,Tablet,True
+02538717,IRON PREPARATIONS,Apo-Brivaracetam brivaracetam,biosimilar,100 mg,Tablet,True
+02539292,IRON PREPARATIONS,Apo-Brivaracetam brivaracetam,biosimilar,50 mg,Tablet,True
+02539306,IRON PREPARATIONS,Auro-Brivaracetam brivaracetam Tablet,biosimilar,100 mg,Tablet,True
+02357615,IRON PREPARATIONS,Auro-Brivaracetam brivaracetam Tablet,biosimilar,50 mg,Tablet,True
+02357623,IRON PREPARATIONS,Auro-Brivaracetam brivaracetam Tablet,biosimilar,100 mg,Tablet,True
+02357631,IRON PREPARATIONS,Vimpat lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02357658,IRON PREPARATIONS,Vimpat lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02475332,IRON PREPARATIONS,Vimpat lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02475340,IRON PREPARATIONS,Vimpat lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02475359,IRON PREPARATIONS,Auro-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02475367,IRON PREPARATIONS,Auro-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02489287,IRON PREPARATIONS,Auro-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02489295,IRON PREPARATIONS,Auro-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02489309,IRON PREPARATIONS,ACH-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02489317,IRON PREPARATIONS,ACH-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02488388,IRON PREPARATIONS,ACH-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02488396,IRON PREPARATIONS,ACH-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02488418,IRON PREPARATIONS,Jamp-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02488426,IRON PREPARATIONS,Jamp-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02512874,IRON PREPARATIONS,Jamp-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02512882,IRON PREPARATIONS,Jamp-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02512890,IRON PREPARATIONS,Lacosamide (Sanis) lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02512904,IRON PREPARATIONS,Lacosamide (Sanis) lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02487802,IRON PREPARATIONS,Lacosamide (Sanis) lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02487810,IRON PREPARATIONS,Lacosamide (Sanis) lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02487829,IRON PREPARATIONS,Mar-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02487837,IRON PREPARATIONS,Mar-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02490544,IRON PREPARATIONS,Mar-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02490552,IRON PREPARATIONS,Mar-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02490560,IRON PREPARATIONS,Mint-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02490579,IRON PREPARATIONS,Mint-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02499568,IRON PREPARATIONS,Mint-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02499576,IRON PREPARATIONS,Mint-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02499584,IRON PREPARATIONS,NRA-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02499592,IRON PREPARATIONS,NRA-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02478196,IRON PREPARATIONS,NRA-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02478218,IRON PREPARATIONS,NRA-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02478226,IRON PREPARATIONS,Pharma-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02478234,IRON PREPARATIONS,Pharma-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02474670,IRON PREPARATIONS,Pharma-Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02474689,IRON PREPARATIONS,Pharma-Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02474697,IRON PREPARATIONS,Sandoz Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02474700,IRON PREPARATIONS,Sandoz Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02472902,IRON PREPARATIONS,Sandoz Lacosamide lacosamide Tablet,biosimilar,50 mg,Tablet,True
+02472910,IRON PREPARATIONS,Sandoz Lacosamide lacosamide Tablet,biosimilar,100 mg,Tablet,True
+02472929,IRON PREPARATIONS,Teva-Lacosamide lacosamide Tablet,biosimilar,150 mg,Tablet,True
+02472937,IRON PREPARATIONS,Teva-Lacosamide lacosamide Tablet,biosimilar,200 mg,Tablet,True
+02404516,IRON PREPARATIONS,Teva-Lacosamide lacosamide Tablet,biosimilar,2 mg,Tablet,True
+02404524,IRON PREPARATIONS,Teva-Lacosamide lacosamide Tablet,biosimilar,4 mg,Tablet,True
+02404532,IRON PREPARATIONS,Teva-Lacosamide lacosamide Tablet,biosimilar,6 mg,Tablet,True
+02404540,IRON PREPARATIONS,Fycompa perampanel Tablet,biosimilar,8 mg,Tablet,True
+02404559,IRON PREPARATIONS,Fycompa perampanel Tablet,biosimilar,10 mg,Tablet,True
+02404567,IRON PREPARATIONS,Fycompa perampanel Tablet,biosimilar,12 mg,Tablet,True
+02522632,IRON PREPARATIONS,Fycompa perampanel Tablet,biosimilar,2 mg,Tablet,True
+02522640,IRON PREPARATIONS,Fycompa perampanel Tablet,biosimilar,4 mg,Tablet,True
+02522659,IRON PREPARATIONS,Fycompa perampanel Tablet,biosimilar,6 mg,Tablet,True
+02522667,IRON PREPARATIONS,Taro-Perampanel perampanel Tablet,biosimilar,8 mg,Tablet,True
+02522675,IRON PREPARATIONS,Taro-Perampanel perampanel Tablet,biosimilar,10 mg,Tablet,True
+02522683,IRON PREPARATIONS,Taro-Perampanel perampanel Tablet,biosimilar,12 mg,Tablet,True
+02538652,IRON PREPARATIONS,Taro-Perampanel perampanel Tablet,biosimilar,12.5 mg,Tablet,True
+02538660,IRON PREPARATIONS,Taro-Perampanel perampanel Tablet,biosimilar,25 mg,Tablet,True
+02538725,IRON PREPARATIONS,Taro-Perampanel perampanel Tablet,biosimilar,50 mg,Tablet,True
+02538733,IRON PREPARATIONS,Xcopri cenobamate Tablet,biosimilar,100 mg,Tablet,True
+02538741,IRON PREPARATIONS,Xcopri cenobamate Tablet,biosimilar,150 mg,Tablet,True
+02538768,IRON PREPARATIONS,Xcopri cenobamate Tablet,biosimilar,200 mg,Tablet,True
+02497859,IRON PREPARATIONS,Xcopri cenobamate Tablet,biosimilar,200 mg,Tablet,True
+02509474,IRON PREPARATIONS,Ajovy fremanezumab 225 mg/1.5 mL Injection,biosimilar,200 mg,Tablet,True
+02491087,IRON PREPARATIONS,Ajovy fremanezumab 225 mg/1.5 mL Injection,biosimilar,200 mg,Tablet,True
+02491060,IRON PREPARATIONS,Emgality galcanezumab 120 mg/mL Injection,biosimilar,200 mg,Tablet,True
+02510839,IRON PREPARATIONS,Vyepti eptinezumab,biosimilar,100 mg,Solution,True
+02542269,IRON PREPARATIONS,Vyepti eptinezumab,biosimilar,300 mg,Solution,True
+02533979,IRON PREPARATIONS,Vyepti eptinezumab,biosimilar,10 mg,Solution,True
+02533987,IRON PREPARATIONS,Qulipta atogepant,biosimilar,30 mg,Tablet,True
+02533995,IRON PREPARATIONS,Qulipta atogepant,biosimilar,60 mg,Tablet,True
+02230302,IRON PREPARATIONS,Opiate Agonists,biosimilar,50 mg,Tablet,True
+02163748,IRON PREPARATIONS,Opiate Agonists,biosimilar,100 mg,Tablet,True
+02163780,IRON PREPARATIONS,Codeine Contin codeine,biosimilar,150 mg,Tablet,True
+02163799,IRON PREPARATIONS,Codeine Contin codeine,biosimilar,200 mg,Tablet,True
+02231934,IRON PREPARATIONS,Codeine Contin codeine,biosimilar,5 mg,Tablet,True
+02240131,IRON PREPARATIONS,Oxy-IR oxycodone HCl,biosimilar,10 mg,Tablet,True
+02240132,IRON PREPARATIONS,Oxy-IR oxycodone HCl,biosimilar,20 mg,Tablet,True
+02319977,IRON PREPARATIONS,Oxy-IR oxycodone HCl,biosimilar,5 mg,Tablet,True
+02319985,IRON PREPARATIONS,pms-Oxycodone oxycondone HCl,biosimilar,10 mg,Tablet,True
+02319993,IRON PREPARATIONS,pms-Oxycodone oxycondone HCl,biosimilar,20 mg,Tablet,True
+00789739,IRON PREPARATIONS,pms-Oxycodone oxycondone HCl,biosimilar,5 mg,Tablet,True
+00443948,IRON PREPARATIONS,Supeudol oxycodone HCl,biosimilar,10 mg,Tablet,True
+02262983,IRON PREPARATIONS,Supeudol oxycodone HCl,biosimilar,20 mg,Tablet,True
+02372525,IRON PREPARATIONS,Supeudol oxycodone HCl,biosimilar,10 mg,Tablet,True
+02372533,IRON PREPARATIONS,Supeudol oxycodone HCl,biosimilar,15 mg,Tablet,True
+02372797,IRON PREPARATIONS,Supeudol oxycodone HCl,biosimilar,20 mg,Tablet,True
+02372541,IRON PREPARATIONS,OxyNeo oxycodone,biosimilar,30 mg,Tablet,True
+02372568,IRON PREPARATIONS,Released Tablet,biosimilar,40 mg,Tablet,True
+02372576,IRON PREPARATIONS,Released Tablet,biosimilar,60 mg,Tablet,True
+02372584,IRON PREPARATIONS,Released Tablet,biosimilar,80 mg,Tablet,True
+02420864,IRON PREPARATIONS,Released Tablet,biosimilar,300 mg,Tablet,True
+02420872,IRON PREPARATIONS,Abilify Maintena aripiprazole Injection,biosimilar,400 mg,Tablet,True
+02354217,IRON PREPARATIONS,Abilify Maintena aripiprazole Injection,biosimilar,50 mg,Tablet,True
+02354225,IRON PREPARATIONS,Abilify Maintena aripiprazole Injection,biosimilar,75 mg,Tablet,True
+02354233,IRON PREPARATIONS,Invega Sustenna paliperidone Injection,biosimilar,100 mg,Tablet,True
+02354241,IRON PREPARATIONS,Invega Sustenna paliperidone Injection,biosimilar,150 mg,Tablet,True
+02455943,IRON PREPARATIONS,Invega Sustenna paliperidone Injection,biosimilar,175 mg,Tablet,True
+02455986,IRON PREPARATIONS,Invega Sustenna paliperidone Injection,biosimilar,263 mg,Tablet,True
+02455994,IRON PREPARATIONS,Invega Trinza paliperidone Injection,biosimilar,350 mg,Tablet,True
+02456001,IRON PREPARATIONS,Invega Trinza paliperidone Injection,biosimilar,525 mg,Tablet,True
+02298465,IRON PREPARATIONS,Invega Trinza paliperidone Injection,biosimilar,12.5mg,Tablet,True
+02255707,IRON PREPARATIONS,Invega Trinza paliperidone Injection,biosimilar,25 mg,Tablet,True
+02255723,IRON PREPARATIONS,Risperdal Consta risperidone Injection,biosimilar,37.5 mg,Tablet,True
+02255758,IRON PREPARATIONS,Risperdal Consta risperidone Injection,biosimilar,50 mg,Tablet,True
+02295881,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Jamp-Lactulose lactulose,biosimilar,667 mg,Solution,True
+02412268,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Lactulose lactulose,biosimilar,667 mg,Solution,True
+02247383,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Pharma-Lactulose lactulose,biosimilar,667 mg,Liquid,True
+00703486,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Pharma-Lactulose lactulose,biosimilar,667 mg,Liquid,True
+02469391,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Pharma-Lactulose lactulose,biosimilar,667 mg,Liquid,True
+00854409,"ELECTROLYTIC, CALORIC AND WATER BALANCE",ratio-Lactulose lactulose,biosimilar,667 mg,Liquid,True
+02410702,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Zaxine rifaximin,biosimilar,550 mg,Tablet,True
+02248151,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Alphagan P brimonidine tartrate,biosimilar,0.15%,Tablet,True
+02301334,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Apo-Brimonidine P brimonidine tartrate,biosimilar,0.15%,Tablet,True
+02484137,"ELECTROLYTIC, CALORIC AND WATER BALANCE",Verkazia cyclosporine,biosimilar,0.1%,Tablet,True
+02470780,GASTROINTESTINAL DRUGS,Amoxicillin-,biosimilar,500 mg,Tablet,True
+02256452,GASTROINTESTINAL DRUGS,Diarrhea Relief loperamide,biosimilar,2 mg,Tablet,True
+02132591,GASTROINTESTINAL DRUGS,Teva-Loperamide loperamide,biosimilar,2 mg,Tablet,True
+02228351,GASTROINTESTINAL DRUGS,pms-Loperamide loperamide,biosimilar,2 mg,Tablet,True
+02229293,HORMONES AND SYNTHETIC SUBSTITUTES,Entocort budesonide,biosimilar,3 mg,Capsule,True
+02391600,HORMONES AND SYNTHETIC SUBSTITUTES,Entocort budesonide,biosimilar,15 mg,Capsule,True
+02339587,HORMONES AND SYNTHETIC SUBSTITUTES,ACH-Pioglitazone pioglitazone,biosimilar,30 mg,Tablet,True
+02339595,HORMONES AND SYNTHETIC SUBSTITUTES,ACH-Pioglitazone pioglitazone,biosimilar,45 mg,Tablet,True
+02302861,HORMONES AND SYNTHETIC SUBSTITUTES,ACH-Pioglitazone pioglitazone,biosimilar,15 mg,Tablet,True
+02302888,HORMONES AND SYNTHETIC SUBSTITUTES,ACT Pioglitazone pioglitazone,biosimilar,30 mg,Tablet,True
+02302896,HORMONES AND SYNTHETIC SUBSTITUTES,ACT Pioglitazone pioglitazone,biosimilar,45 mg,Tablet,True
+02302942,HORMONES AND SYNTHETIC SUBSTITUTES,ACT Pioglitazone pioglitazone,biosimilar,15 mg,Tablet,True
+02302950,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Pioglitazone pioglitazone,biosimilar,30 mg,Tablet,True
+02302977,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Pioglitazone pioglitazone,biosimilar,45 mg,Tablet,True
+02397307,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Pioglitazone pioglitazone,biosimilar,15 mg,Tablet,True
+02365529,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp-Pioglitazone pioglitazone,biosimilar,30 mg,Tablet,True
+02365537,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp-Pioglitazone pioglitazone,biosimilar,45 mg,Tablet,True
+02326477,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp-Pioglitazone pioglitazone,biosimilar,15 mg,Tablet,True
+02326485,HORMONES AND SYNTHETIC SUBSTITUTES,Mint-Pioglitazone pioglitazone,biosimilar,30 mg,Tablet,True
+02326493,HORMONES AND SYNTHETIC SUBSTITUTES,Mint-Pioglitazone pioglitazone,biosimilar,45 mg,Tablet,True
+02303124,HORMONES AND SYNTHETIC SUBSTITUTES,Mint-Pioglitazone pioglitazone,biosimilar,15 mg,Tablet,True
+02303132,HORMONES AND SYNTHETIC SUBSTITUTES,pms-Pioglitazone pioglitazone,biosimilar,30 mg,Tablet,True
+02303140,HORMONES AND SYNTHETIC SUBSTITUTES,pms-Pioglitazone pioglitazone,biosimilar,45 mg,Tablet,True
+02269589,HORMONES AND SYNTHETIC SUBSTITUTES,pms-Pioglitazone pioglitazone,biosimilar,1 mg,Tablet,True
+02269597,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Glimepiride glimepiride,biosimilar,2 mg,Tablet,True
+02269619,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Glimepiride glimepiride,biosimilar,4 mg,Tablet,True
+02321475,HORMONES AND SYNTHETIC SUBSTITUTES,G.I. intolerance.),biosimilar,0.5 mg,Tablet,True
+02321483,HORMONES AND SYNTHETIC SUBSTITUTES,ACT Repaglinide repaglinide,biosimilar,1 mg,Tablet,True
+02321491,HORMONES AND SYNTHETIC SUBSTITUTES,ACT Repaglinide repaglinide,biosimilar,2 mg,Tablet,True
+02424258,HORMONES AND SYNTHETIC SUBSTITUTES,ACT Repaglinide repaglinide,biosimilar,0.5 mg,Tablet,True
+02424266,HORMONES AND SYNTHETIC SUBSTITUTES,Auro-Repaglinide repaglinide,biosimilar,1 mg,Tablet,True
+02424274,HORMONES AND SYNTHETIC SUBSTITUTES,Auro-Repaglinide repaglinide,biosimilar,2 mg,Tablet,True
+02239926,HORMONES AND SYNTHETIC SUBSTITUTES,Gluconorm repaglinide,biosimilar,2 mg,Tablet,True
+02354926,HORMONES AND SYNTHETIC SUBSTITUTES,Gluconorm repaglinide,biosimilar,0.5 mg,Tablet,True
+02354934,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp-Repaglinide repaglinide,biosimilar,1 mg,Tablet,True
+02354942,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp-Repaglinide repaglinide,biosimilar,2 mg,Tablet,True
+02357453,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp-Repaglinide repaglinide,biosimilar,0.5 mg,Tablet,True
+02357461,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Repaglinide repaglinide,biosimilar,1 mg,Tablet,True
+02357488,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Repaglinide repaglinide,biosimilar,2 mg,Tablet,True
+02425483,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Repaglinide repaglinide,biosimilar,100 mg,Tablet,True
+02425491,HORMONES AND SYNTHETIC SUBSTITUTES,Invokana canagliflozin Tablet,biosimilar,300 mg,Tablet,True
+02388839,HORMONES AND SYNTHETIC SUBSTITUTES,Invokana canagliflozin Tablet,biosimilar,25 mg,Tablet,True
+02388847,HORMONES AND SYNTHETIC SUBSTITUTES,Januvia sitagliptin,biosimilar,50 mg,Tablet,True
+02303922,HORMONES AND SYNTHETIC SUBSTITUTES,Januvia sitagliptin,biosimilar,100 mg,Tablet,True
+02512475,HORMONES AND SYNTHETIC SUBSTITUTES,Januvia sitagliptin,biosimilar,25 mg,Tablet,True
+02512483,HORMONES AND SYNTHETIC SUBSTITUTES,ACH-Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02512491,HORMONES AND SYNTHETIC SUBSTITUTES,ACH-Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02508656,HORMONES AND SYNTHETIC SUBSTITUTES,ACH-Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02508664,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02508672,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02529866,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02529874,HORMONES AND SYNTHETIC SUBSTITUTES,Auro-Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02529882,HORMONES AND SYNTHETIC SUBSTITUTES,Auro-Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02534134,HORMONES AND SYNTHETIC SUBSTITUTES,Auro-Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02534142,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02534150,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02503840,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02503859,HORMONES AND SYNTHETIC SUBSTITUTES,pms-Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02503867,HORMONES AND SYNTHETIC SUBSTITUTES,pms-Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02558157,HORMONES AND SYNTHETIC SUBSTITUTES,pms-Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02558165,HORMONES AND SYNTHETIC SUBSTITUTES,NAT-Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02543400,HORMONES AND SYNTHETIC SUBSTITUTES,NAT-Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02504049,HORMONES AND SYNTHETIC SUBSTITUTES,NAT-Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02504057,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02504065,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02548550,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02548569,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02548577,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02529033,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02529041,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin sitagliptin,biosimilar,50 mg,Tablet,True
+02529068,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin sitagliptin,biosimilar,100 mg,Tablet,True
+02531631,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin sitagliptin,biosimilar,25 mg,Tablet,True
+02531658,HORMONES AND SYNTHETIC SUBSTITUTES,sitagliptin,biosimilar,50 mg,Tablet,True
+02531666,HORMONES AND SYNTHETIC SUBSTITUTES,Fumarate,biosimilar,100 mg,Tablet,True
+02522705,HORMONES AND SYNTHETIC SUBSTITUTES,Fumarate,biosimilar,25 mg,Tablet,True
+02522713,HORMONES AND SYNTHETIC SUBSTITUTES,sitagliptin,biosimilar,50 mg,Tablet,True
+02522721,HORMONES AND SYNTHETIC SUBSTITUTES,Malate,biosimilar,100 mg,Tablet,True
+02443937,HORMONES AND SYNTHETIC SUBSTITUTES,Malate,biosimilar,10 mg,Tablet,True
+02443945,HORMONES AND SYNTHETIC SUBSTITUTES,Jardiance empagliflozin Tablet,biosimilar,25 mg,Tablet,True
+02375842,HORMONES AND SYNTHETIC SUBSTITUTES,Jardiance empagliflozin Tablet,biosimilar,2.5 mg,Tablet,True
+02333554,HORMONES AND SYNTHETIC SUBSTITUTES,Onglyza saxagliptin Tablet,biosimilar,5 mg,Tablet,True
+02507471,HORMONES AND SYNTHETIC SUBSTITUTES,Onglyza saxagliptin Tablet,biosimilar,2.5 mg,Tablet,True
+02507498,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Saxagliptin saxagliptin Tablet,biosimilar,5 mg,Tablet,True
+02468603,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Saxagliptin saxagliptin Tablet,biosimilar,2.5 mg,Tablet,True
+02468611,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Saxagliptin saxagliptin Tablet,biosimilar,5 mg,Tablet,True
+02370921,HORMONES AND SYNTHETIC SUBSTITUTES,Trajenta linagliptin,biosimilar,5 mg,Tablet,True
+02456575,HORMONES AND SYNTHETIC SUBSTITUTES,Jardiance empagliflozin Tablet,biosimilar,5/500 mg,Tablet,True
+02456583,HORMONES AND SYNTHETIC SUBSTITUTES,Jardiance empagliflozin Tablet,biosimilar,5/850 mg,Tablet,True
+02456591,HORMONES AND SYNTHETIC SUBSTITUTES,Jardiance empagliflozin Tablet,biosimilar,5/1000 mg,Tablet,True
+02456605,HORMONES AND SYNTHETIC SUBSTITUTES,Synjardy empagliflozin/metformin Tablet,biosimilar,12.5/500 mg,Tablet,True
+02456613,HORMONES AND SYNTHETIC SUBSTITUTES,Synjardy empagliflozin/metformin Tablet,biosimilar,12.5/850 mg,Tablet,True
+02456621,HORMONES AND SYNTHETIC SUBSTITUTES,Synjardy empagliflozin/metformin Tablet,biosimilar,12.5/1000 mg,Tablet,True
+02333856,HORMONES AND SYNTHETIC SUBSTITUTES,Synjardy empagliflozin/metformin Tablet,biosimilar,50/500 mg,Tablet,True
+02333864,HORMONES AND SYNTHETIC SUBSTITUTES,Janumet,biosimilar,50/850 mg,Tablet,True
+02333872,HORMONES AND SYNTHETIC SUBSTITUTES,Janumet,biosimilar,50/1000 mg,Tablet,True
+02435772,HORMONES AND SYNTHETIC SUBSTITUTES,Janumet,biosimilar,50/500 mg,Tablet,True
+02435780,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Sitagliptin/ sitagliptin/metformin,biosimilar,50/850 mg,Tablet,True
+02435799,HORMONES AND SYNTHETIC SUBSTITUTES,Metformin hydrochloride,biosimilar,50/1000 mg,Tablet,True
+02509415,HORMONES AND SYNTHETIC SUBSTITUTES,Metformin hydrochloride,biosimilar,50/500 mg,Tablet,True
+02509423,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-Sitagliptin Malate/ sitagliptin/metformin,biosimilar,50/850 mg,Tablet,True
+02509431,HORMONES AND SYNTHETIC SUBSTITUTES,Metformin hydrochloride,biosimilar,50/1000 mg,Tablet,True
+02547805,HORMONES AND SYNTHETIC SUBSTITUTES,Auro-Sitagliptin,biosimilar,50/500 mg,Tablet,True
+02547813,HORMONES AND SYNTHETIC SUBSTITUTES,Hydrochloride and sitagliptin/metformin,biosimilar,50/850 mg,Tablet,True
+02547821,HORMONES AND SYNTHETIC SUBSTITUTES,Metformin hydrochloride,biosimilar,50/1000 mg,Tablet,True
+02556189,HORMONES AND SYNTHETIC SUBSTITUTES,Jamp Sitagliptin,biosimilar,50/500 mg,Tablet,True
+02556197,HORMONES AND SYNTHETIC SUBSTITUTES,Hydrochloride/,biosimilar,50/850 mg,Tablet,True
+02556200,HORMONES AND SYNTHETIC SUBSTITUTES,Metformin,biosimilar,50/1000 mg,Tablet,True
+02503956,HORMONES AND SYNTHETIC SUBSTITUTES,Metformin,biosimilar,50/500 mg,Tablet,True
+02503964,HORMONES AND SYNTHETIC SUBSTITUTES,Sandoz Sitagliptin- sitagliptin/metformin,biosimilar,50/850 mg,Tablet,True
+02503972,HORMONES AND SYNTHETIC SUBSTITUTES,Meformin hydrochloride,biosimilar,50/1000 mg,Tablet,True
+02529157,HORMONES AND SYNTHETIC SUBSTITUTES,Meformin hydrochloride,biosimilar,50/500 mg,Tablet,True
+02529165,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin-Meformin,biosimilar,50/850 mg,Tablet,True
+02529173,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin-Meformin,biosimilar,50/1000 mg,Tablet,True
+02520494,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin-Meformin,biosimilar,50/500 mg,Tablet,True
+02520508,HORMONES AND SYNTHETIC SUBSTITUTES,Teva-Sitagliptin- sitagliptin/metformin,biosimilar,50/850 mg,Tablet,True
+02520516,HORMONES AND SYNTHETIC SUBSTITUTES,Meformin hydrochloride,biosimilar,50/1000 mg,Tablet,True
+02416794,HORMONES AND SYNTHETIC SUBSTITUTES,Janumet XR sitagliptin/metformin,biosimilar,50/1000 mg,Tablet,True
+02506270,HORMONES AND SYNTHETIC SUBSTITUTES,Apo-,biosimilar,50/500 mg,Tablet,True
+02506289,HORMONES AND SYNTHETIC SUBSTITUTES,Sitagliptin/Metformin sitagliptin/metformin,biosimilar,50/1000 mg,Tablet,True
+02506297,HORMONES AND SYNTHETIC SUBSTITUTES,XR,biosimilar,100/1000 mg,Tablet,True
+02529106,HORMONES AND SYNTHETIC SUBSTITUTES,XR,biosimilar,50/500 mg,Tablet,True
+02529114,HORMONES AND SYNTHETIC SUBSTITUTES,sitagliptin/metformin,biosimilar,50/1000 mg,Tablet,True
+02529122,HORMONES AND SYNTHETIC SUBSTITUTES,Meformin XR,biosimilar,100/1000 mg,Tablet,True
+02403250,HORMONES AND SYNTHETIC SUBSTITUTES,Meformin XR,biosimilar,2.5/500 mg,Tablet,True
+02403269,HORMONES AND SYNTHETIC SUBSTITUTES,Jentadueto linagliptin/metformin,biosimilar,2.5/850 mg,Tablet,True
+02403277,HORMONES AND SYNTHETIC SUBSTITUTES,Jentadueto linagliptin/metformin,biosimilar,2.5/1000 mg,Tablet,True
+02389169,HORMONES AND SYNTHETIC SUBSTITUTES,Jentadueto linagliptin/metformin,biosimilar,2.5/500 mg,Tablet,True
+02389177,HORMONES AND SYNTHETIC SUBSTITUTES,Komboglyze saxagliptin/metformin,biosimilar,2.5/850 mg,Tablet,True
+02389185,HORMONES AND SYNTHETIC SUBSTITUTES,Komboglyze saxagliptin/metformin,biosimilar,2.5/1000 mg,Tablet,True
+02471469,HORMONES AND SYNTHETIC SUBSTITUTES,Komboglyze saxagliptin/metformin,biosimilar,1.34 mg,Tablet,True
+02471477,HORMONES AND SYNTHETIC SUBSTITUTES,Ozempic semaglutide,biosimilar,1.34 mg,Injection,True
+02540258,HORMONES AND SYNTHETIC SUBSTITUTES,Ozempic semaglutide,biosimilar,0.68mg,Injection,True
+02478293,HORMONES AND SYNTHETIC SUBSTITUTES,Soliqua insulin glargine/lixisenatide,biosimilar,100 U,Injection,True
+02251930,HORMONES AND SYNTHETIC SUBSTITUTES,Lantus insulin glargine,biosimilar,100 U,Injection,True
+02245397,HORMONES AND SYNTHETIC SUBSTITUTES,NovoRapid insulin aspart,biosimilar,100 U,Injection,True
+02244148,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Vial,biosimilar,0.1%,Injection,True
+02244149,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Protopic tacrolimus Ointment,biosimilar,0.03%,Injection,True
+02528363,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Protopic tacrolimus Ointment,biosimilar,50 mg,Injection,True
+02528371,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Cibinqo abrocitinib,biosimilar,100 mg,Tablet,True
+02528398,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Cibinqo abrocitinib,biosimilar,200 mg,Tablet,True
+02470365,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Cibinqo abrocitinib,biosimilar,150 mg,Tablet,True
+02492504,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Cibinqo abrocitinib,biosimilar,200 mg,Tablet,True
+02510049,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Dupixent dupilumab Injection,biosimilar,150 mg,Tablet,True
+02524252,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Dupixent dupilumab Injection,biosimilar,200 mg,Tablet,True
+02495155,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Initiation Criteria,biosimilar,15 mg,Tablet,True
+02520893,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Rinvoq upadacitinib Tablet,biosimilar,30 mg,Tablet,True
+02260565,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Xolair omalizumab,biosimilar,150 mg,Powder,True
+02459795,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Xolair omalizumab,biosimilar,150 mg,Injection,True
+02553805,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Xolair omalizumab,biosimilar,75 mg,Injection,True
+02553813,MISCELLANEOUS SKIN AND MUCOUS MEMBRANE AGENTS,Omlyclo omalizumab,biosimilar,150 mg,Syringe,True
+02275066,SMOOTH MUSCLE RELAXANTS,Trosec trospium,biosimilar,20 mg,Tablet,True
+02488353,SMOOTH MUSCLE RELAXANTS,Mar-Trospium trospium,biosimilar,20 mg,Tablet,True
+02506661,SMOOTH MUSCLE RELAXANTS,JampTrospium trospium,biosimilar,20 mg,Tablet,True
+02542420,MISCELLANEOUS THERAPEUTIC AGENTS,Amvuttra vutrisiran,biosimilar,25 mg,Tablet,True
+02489252,MISCELLANEOUS THERAPEUTIC AGENTS,Onpattro patisiran,biosimilar,2 mg,Solution,True
+02495732,MISCELLANEOUS THERAPEUTIC AGENTS,Vyndaqel tafamidis,formerly termed familial amyloid neuropathy,20 mg,Capsule,True
+02517841,MISCELLANEOUS THERAPEUTIC AGENTS,Vyndamax tafamidis,formerly termed familial amyloid neuropathy,61 mg,Capsule,True
+02298384,MISCELLANEOUS THERAPEUTIC AGENTS,Teva-Risedronate risedronate,formerly termed familial amyloid neuropathy,30 mg,Tablet,True
+02489597,MISCELLANEOUS THERAPEUTIC AGENTS,Evenity romosozumab,formerly termed familial amyloid neuropathy,105 mg,syringe,True
+02545411,MISCELLANEOUS THERAPEUTIC AGENTS,denosumab,formerly termed familial amyloid neuropathy,60mg,Injection,True
+02269198,MISCELLANEOUS THERAPEUTIC AGENTS,Aclasta zoledronic acid,formerly termed familial amyloid neuropathy,5 mg,Injection,True
+02415100,MISCELLANEOUS THERAPEUTIC AGENTS,Taro-Zoledronic Acid zoledronic acid,formerly termed familial amyloid neuropathy,5 mg,Injection,True
+02422433,MISCELLANEOUS THERAPEUTIC AGENTS,Zoledronic Acid zoledronic acid,formerly termed familial amyloid neuropathy,5 mg,Injection,True
+02237671,MISCELLANEOUS THERAPEUTIC AGENTS,Zoledronic Acid zoledronic acid,formerly termed familial amyloid neuropathy,10 mg,Injection,True
+02150689,MISCELLANEOUS THERAPEUTIC AGENTS,Zoledronic Acid zoledronic acid,formerly termed familial amyloid neuropathy,25 mg,Injection,True
+02150662,MISCELLANEOUS THERAPEUTIC AGENTS,Neoral cyclosporine Capsule,formerly termed familial amyloid neuropathy,50 mg,Injection,True
+02150670,MISCELLANEOUS THERAPEUTIC AGENTS,Neoral cyclosporine Capsule,formerly termed familial amyloid neuropathy,100 mg,Injection,True
+02150697,MISCELLANEOUS THERAPEUTIC AGENTS,Neoral cyclosporine,formerly termed familial amyloid neuropathy,100 mg,Solution,True
+02247073,MISCELLANEOUS THERAPEUTIC AGENTS,Neoral cyclosporine,formerly termed familial amyloid neuropathy,25 mg,Solution,True
+02247074,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Cyclosporine cyclosporine,formerly termed familial amyloid neuropathy,50 mg,Capsule,True
+02242821,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Cyclosporine cyclosporine,formerly termed familial amyloid neuropathy,100 mg,Capsule,True
+02436841,MISCELLANEOUS THERAPEUTIC AGENTS,Entyvio vedolizumab,formerly termed familial amyloid neuropathy,300 mg,Injection,True
+02497875,MISCELLANEOUS THERAPEUTIC AGENTS,Entyvio vedolizumab,formerly termed familial amyloid neuropathy,108 mg,syringe,True
+02497867,MISCELLANEOUS THERAPEUTIC AGENTS,Entyvio SC vedolizumab,formerly termed familial amyloid neuropathy,108 mg,syringe,True
+02402475,MISCELLANEOUS THERAPEUTIC AGENTS,Ulcerative Colitis,e.g. azathioprine or 6 mercaptopurine,125 mg,syringe,True
+02282097,MISCELLANEOUS THERAPEUTIC AGENTS,Orencia abatacept Injection,e.g. azathioprine or 6 mercaptopurine,250 mg,vial,True
+02496933,MISCELLANEOUS THERAPEUTIC AGENTS,Avsola infliximab,e.g. azathioprine or 6 mercaptopurine,100 mg,vial,True
+02523191,MISCELLANEOUS THERAPEUTIC AGENTS,Ixifi infliximab,e.g. azathioprine or 6 mercaptopurine,100 mg,vial,True
+02419475,MISCELLANEOUS THERAPEUTIC AGENTS,infliximab,e.g. azathioprine or 6 mercaptopurine,100 mg,Injection,True
+02470373,MISCELLANEOUS THERAPEUTIC AGENTS,Renflexis infliximab,e.g. azathioprine or 6 mercaptopurine,100 mg,Injection,True
+02511576,MISCELLANEOUS THERAPEUTIC AGENTS,Remsima SC infliximab,e.g. azathioprine or 6 mercaptopurine,120 mg,Syringe,True
+02511584,MISCELLANEOUS THERAPEUTIC AGENTS,Remsima SC infliximab,e.g. azathioprine or 6 mercaptopurine,120 mg,Syringe,True
+02455323,MISCELLANEOUS THERAPEUTIC AGENTS,Rheumatoid Arthritis,e.g. azathioprine or 6 mercaptopurine,120 mg,Syringe,True
+02455331,MISCELLANEOUS THERAPEUTIC AGENTS,Brenzys etanercept 50 mg/mL Injection,e.g. azathioprine or 6 mercaptopurine,120 mg,Syringe,True
+02462869,MISCELLANEOUS THERAPEUTIC AGENTS,Brenzys etanercept 50 mg/mL Injection,e.g. azathioprine or 6 mercaptopurine,50 mg,Syringe,True
+02462877,MISCELLANEOUS THERAPEUTIC AGENTS,Erelzi etanercept,e.g. azathioprine or 6 mercaptopurine,25mg,Injection,True
+02462850,MISCELLANEOUS THERAPEUTIC AGENTS,Erelzi etanercept,e.g. azathioprine or 6 mercaptopurine,50mg,Injection,True
+02511061,MISCELLANEOUS THERAPEUTIC AGENTS,Abrilada adalimumab,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02511053,MISCELLANEOUS THERAPEUTIC AGENTS,Abrilada adalimumab,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02511045,MISCELLANEOUS THERAPEUTIC AGENTS,Abrilada adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02459310,MISCELLANEOUS THERAPEUTIC AGENTS,Abrilada adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02459299,MISCELLANEOUS THERAPEUTIC AGENTS,Amgevita adalimumab,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02459302,MISCELLANEOUS THERAPEUTIC AGENTS,Amgevita adalimumab,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02473097,MISCELLANEOUS THERAPEUTIC AGENTS,Amgevita adalimumab,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02473100,MISCELLANEOUS THERAPEUTIC AGENTS,Hadlima adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02533472,MISCELLANEOUS THERAPEUTIC AGENTS,Hadlima adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02533480,MISCELLANEOUS THERAPEUTIC AGENTS,Hadlima adalimumab 40 mg/0.4 mL Injection,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02502380,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02502399,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02502402,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02492156,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,40 mg,Injection,True
+02492164,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,40 mg,Injection,True
+02505258,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02542358,MISCELLANEOUS THERAPEUTIC AGENTS,Hulio adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,80mg,Injection,True
+02542366,MISCELLANEOUS THERAPEUTIC AGENTS,Hyrimoz adalimumab Injection,e.g. azathioprine or 6 mercaptopurine,80mg,Injection,True
+02542323,MISCELLANEOUS THERAPEUTIC AGENTS,Hyrimoz adalimumab Injection,e.g. azathioprine or 6 mercaptopurine,40mg,Injection,True
+02542331,MISCELLANEOUS THERAPEUTIC AGENTS,Hyrimoz adalimumab Injection,e.g. azathioprine or 6 mercaptopurine,40mg,Injection,True
+02542315,MISCELLANEOUS THERAPEUTIC AGENTS,Hyrimoz adalimumab Injection,e.g. azathioprine or 6 mercaptopurine,20mg,Injection,True
+02502674,MISCELLANEOUS THERAPEUTIC AGENTS,Idacio adalimumab,e.g. azathioprine or 6 mercaptopurine,40 mg,Injection,True
+02502682,MISCELLANEOUS THERAPEUTIC AGENTS,Idacio adalimumab,e.g. azathioprine or 6 mercaptopurine,40 mg,Syringe,True
+02523949,MISCELLANEOUS THERAPEUTIC AGENTS,Idacio adalimumab,e.g. azathioprine or 6 mercaptopurine,40 mg,Syringe,True
+02523957,MISCELLANEOUS THERAPEUTIC AGENTS,Simlandi adalimumab 40 mg/0.4 mL Injection,e.g. azathioprine or 6 mercaptopurine,40 mg,Syringe,True
+02523965,MISCELLANEOUS THERAPEUTIC AGENTS,Simlandi adalimumab,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02523760,MISCELLANEOUS THERAPEUTIC AGENTS,Simlandi adalimumab,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02523779,MISCELLANEOUS THERAPEUTIC AGENTS,Yuflyma adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02535084,MISCELLANEOUS THERAPEUTIC AGENTS,Yuflyma adalimumab 40 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02535076,MISCELLANEOUS THERAPEUTIC AGENTS,Yuflyma adalimumab 80 mg/0.8 mL Injection,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02460521,MISCELLANEOUS THERAPEUTIC AGENTS,Ulcerative Colitis,e.g. azathioprine or 6 mercaptopurine,150 mg,Injection,True
+02460548,MISCELLANEOUS THERAPEUTIC AGENTS,Ulcerative Colitis,e.g. azathioprine or 6 mercaptopurine,200 mg,Injection,True
+02472961,MISCELLANEOUS THERAPEUTIC AGENTS,Kevzara sarilumab Injection,e.g. azathioprine or 6 mercaptopurine,150 mg,Injection,True
+02472988,MISCELLANEOUS THERAPEUTIC AGENTS,Kevzara sarilumab Injection,e.g. azathioprine or 6 mercaptopurine,200 mg,Injection,True
+02245913,MISCELLANEOUS THERAPEUTIC AGENTS,Kineret anakinra,e.g. azathioprine or 6 mercaptopurine,150 mg,Injection,True
+02539861,MISCELLANEOUS THERAPEUTIC AGENTS,Omvoh mirikizumab,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02539853,MISCELLANEOUS THERAPEUTIC AGENTS,Omvoh mirikizumab,e.g. azathioprine or 6 mercaptopurine,100 mg,Injection,True
+02539845,MISCELLANEOUS THERAPEUTIC AGENTS,Omvoh mirikizumab,e.g. azathioprine or 6 mercaptopurine,100 mg,Injection,True
+02506009,MISCELLANEOUS THERAPEUTIC AGENTS,Zeposia ozanimod,e.g. azathioprine or 6 mercaptopurine,0.23mg,Injection,True
+02505991,MISCELLANEOUS THERAPEUTIC AGENTS,Zeposia ozanimod,e.g. azathioprine or 6 mercaptopurine,0.92mg,Capsule,True
+02544903,MISCELLANEOUS THERAPEUTIC AGENTS,Velsipity etrasimod,e.g. azathioprine or 6 mercaptopurine,2 mg,Tablet,True
+02539721,MISCELLANEOUS THERAPEUTIC AGENTS,Rinvoq upadacitinib,e.g. azathioprine or 6 mercaptopurine,45 mg,Tablet,True
+02470608,MISCELLANEOUS THERAPEUTIC AGENTS,Xeljanz XR tofacitinib,e.g. azathioprine or 6 mercaptopurine,11 mg,Tablet,True
+02553988,MISCELLANEOUS THERAPEUTIC AGENTS,Taro-Tofacitinib tofacitinib,e.g. azathioprine or 6 mercaptopurine,11 mg,Tablet,True
+02498316,MISCELLANEOUS THERAPEUTIC AGENTS,Riximyo rituximab,e.g. azathioprine or 6 mercaptopurine,10 mg,Injection,True
+02495724,MISCELLANEOUS THERAPEUTIC AGENTS,Ruxience rituximab,e.g. azathioprine or 6 mercaptopurine,10 mg,Injection,True
+02478382,MISCELLANEOUS THERAPEUTIC AGENTS,Ruxience rituximab,e.g. azathioprine or 6 mercaptopurine,100 mg,Injection,True
+02478390,MISCELLANEOUS THERAPEUTIC AGENTS,Truxima rituximab Injection,e.g. azathioprine or 6 mercaptopurine,500 mg,Injection,True
+02424770,MISCELLANEOUS THERAPEUTIC AGENTS,Rheumatoid Arthritis,e.g. azathioprine or 6 mercaptopurine,162 mg,Injection,True
+02483327,MISCELLANEOUS THERAPEUTIC AGENTS,Actemra tocilizumab Injection,e.g. azathioprine or 6 mercaptopurine,162 mg,Injection,True
+02552493,MISCELLANEOUS THERAPEUTIC AGENTS,Tyenne tocilizumab,e.g. azathioprine or 6 mercaptopurine,162 mg,Injection,True
+02552485,MISCELLANEOUS THERAPEUTIC AGENTS,Tyenne tocilizumab,e.g. azathioprine or 6 mercaptopurine,162 mg,Injection,True
+02350092,MISCELLANEOUS THERAPEUTIC AGENTS,Systemic Juvenile Idiopathic Arthritis,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02350106,MISCELLANEOUS THERAPEUTIC AGENTS,Actemra tocilizumab,e.g. azathioprine or 6 mercaptopurine,200 mg,Injection,True
+02350114,MISCELLANEOUS THERAPEUTIC AGENTS,Actemra tocilizumab,e.g. azathioprine or 6 mercaptopurine,400 mg,Injection,True
+02552450,MISCELLANEOUS THERAPEUTIC AGENTS,Systemic Juvenile Idiopathic Arthritis,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02552469,MISCELLANEOUS THERAPEUTIC AGENTS,Tyenne tocilizumab,e.g. azathioprine or 6 mercaptopurine,200 mg,Vial,True
+02552477,MISCELLANEOUS THERAPEUTIC AGENTS,Tyenne tocilizumab,e.g. azathioprine or 6 mercaptopurine,400 mg,Vial,True
+02324776,MISCELLANEOUS THERAPEUTIC AGENTS,Systemic Juvenile Idiopathic Arthritis,e.g. azathioprine or 6 mercaptopurine,50 mcg,Vial,True
+02324784,MISCELLANEOUS THERAPEUTIC AGENTS,Systemic Juvenile Idiopathic Arthritis,e.g. azathioprine or 6 mercaptopurine,50 mcg,Vial,True
+02413175,MISCELLANEOUS THERAPEUTIC AGENTS,Simponi golimumab Injection,e.g. azathioprine or 6 mercaptopurine,100 mg,Vial,True
+02413183,MISCELLANEOUS THERAPEUTIC AGENTS,Simponi golimumab Injection,e.g. azathioprine or 6 mercaptopurine,100 mg,Vial,True
+02417472,MISCELLANEOUS THERAPEUTIC AGENTS,Simponi IV golimumab,e.g. azathioprine or 6 mercaptopurine,50 mg,Injection,True
+02331675,MISCELLANEOUS THERAPEUTIC AGENTS,Cimzia certolizumab,e.g. azathioprine or 6 mercaptopurine,200 mg,Injection,True
+02465574,MISCELLANEOUS THERAPEUTIC AGENTS,Cimzia certolizumab,e.g. azathioprine or 6 mercaptopurine,200 mg,Injection,True
+02516098,MISCELLANEOUS THERAPEUTIC AGENTS,Ilumya tildrakizumab,e.g. azathioprine or 6 mercaptopurine,100 mg,Injection,True
+02543036,MISCELLANEOUS THERAPEUTIC AGENTS,Ilumya tildrakizumab,e.g. azathioprine or 6 mercaptopurine,45 mg,Injection,True
+02543044,MISCELLANEOUS THERAPEUTIC AGENTS,Jamteki ustekinumab Injection,e.g. azathioprine or 6 mercaptopurine,90 mg,Injection,True
+02550245,MISCELLANEOUS THERAPEUTIC AGENTS,Psoriasis,e.g. azathioprine or 6 mercaptopurine,45 mg,Injection,True
+02550253,MISCELLANEOUS THERAPEUTIC AGENTS,Steqeyma ustekinumab Injection,e.g. azathioprine or 6 mercaptopurine,90 mg,Injection,True
+02550261,MISCELLANEOUS THERAPEUTIC AGENTS,Steqeyma IV ustekinumab,e.g. azathioprine or 6 mercaptopurine,5 mg,Solution,True
+02544180,MISCELLANEOUS THERAPEUTIC AGENTS,Wezlana ustekinumab,e.g. azathioprine or 6 mercaptopurine,45 mg,Syringe,True
+02544199,MISCELLANEOUS THERAPEUTIC AGENTS,Wezlana ustekinumab,e.g. azathioprine or 6 mercaptopurine,90 mg,Syringe,True
+02553317,MISCELLANEOUS THERAPEUTIC AGENTS,Wezlana ustekinumab,e.g. azathioprine or 6 mercaptopurine,45 mg,Syringe,True
+02553309,MISCELLANEOUS THERAPEUTIC AGENTS,Wezlana ustekinumab,e.g. azathioprine or 6 mercaptopurine,90 mg,Syringe,True
+02544202,MISCELLANEOUS THERAPEUTIC AGENTS,Wezlana ustekinumab,e.g. azathioprine or 6 mercaptopurine,45 mg,Syringe,True
+02544210,MISCELLANEOUS THERAPEUTIC AGENTS,Wezlana I.V. ustekinumab,e.g. azathioprine or 6 mercaptopurine,5 mg,Syringe,True
+02438070,MISCELLANEOUS THERAPEUTIC AGENTS,Cosentyx secukinumab,e.g. azathioprine or 6 mercaptopurine,150 mg,Injection,True
+02525569,MISCELLANEOUS THERAPEUTIC AGENTS,Cosentyx secukinumab,e.g. azathioprine or 6 mercaptopurine,75 mg,Injection,True
+02547724,MISCELLANEOUS THERAPEUTIC AGENTS,Cosentyx secukinumab,e.g. azathioprine or 6 mercaptopurine,150 mg,Injection,True
+02525267,MISCELLANEOUS THERAPEUTIC AGENTS,Bimzelx bimekizumab,e.g. azathioprine or 6 mercaptopurine,160 mg,Syringe,True
+02525275,MISCELLANEOUS THERAPEUTIC AGENTS,Bimzelx bimekizumab,e.g. azathioprine or 6 mercaptopurine,160 mg,Syringe,True
+02473623,MISCELLANEOUS THERAPEUTIC AGENTS,Siliq brodalumab,e.g. azathioprine or 6 mercaptopurine,210 mg,Injection,True
+02455102,MISCELLANEOUS THERAPEUTIC AGENTS,Siliq brodalumab,e.g. azathioprine or 6 mercaptopurine,80 mg,Injection,True
+02455110,MISCELLANEOUS THERAPEUTIC AGENTS,Taltz ixekizumab,e.g. azathioprine or 6 mercaptopurine,80 mg,Syringe,True
+02487314,MISCELLANEOUS THERAPEUTIC AGENTS,Tremfya guselkumab,e.g. azathioprine or 6 mercaptopurine,100 mg,Syringe,True
+02469758,MISCELLANEOUS THERAPEUTIC AGENTS,Tremfya guselkumab,e.g. azathioprine or 6 mercaptopurine,100 mg,Syringe,True
+02487454,MISCELLANEOUS THERAPEUTIC AGENTS,Skyrizi risankizumab,e.g. azathioprine or 6 mercaptopurine,90 mg,Injection,True
+02519283,MISCELLANEOUS THERAPEUTIC AGENTS,Skyrizi risankizumab,e.g. azathioprine or 6 mercaptopurine,90 mg,Injection,True
+02519291,MISCELLANEOUS THERAPEUTIC AGENTS,Skyrizi risankizumab 150 mg/mL Injection,e.g. azathioprine or 6 mercaptopurine,90 mg,Injection,True
+02532107,MISCELLANEOUS THERAPEUTIC AGENTS,Skyrizi risankizumab,e.g. azathioprine or 6 mercaptopurine,60 mg,Injection,True
+02532093,MISCELLANEOUS THERAPEUTIC AGENTS,Skyrizi risankizumab,e.g. azathioprine or 6 mercaptopurine,360 mg,Injection,True
+02522845,MISCELLANEOUS THERAPEUTIC AGENTS,Saphnelo anifrolumab,e.g. azathioprine or 6 mercaptopurine,150mg,Injection,True
+02370050,MISCELLANEOUS THERAPEUTIC AGENTS,Saphnelo anifrolumab,e.g. azathioprine or 6 mercaptopurine,120mg,Injection,True
+02370069,MISCELLANEOUS THERAPEUTIC AGENTS,Benlysta belimumab Injection,e.g. azathioprine or 6 mercaptopurine,400mg,Injection,True
+02470489,MISCELLANEOUS THERAPEUTIC AGENTS,Benlysta belimumab,e.g. azathioprine or 6 mercaptopurine,200 mg,Injection,True
+02500639,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02504170,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02523833,MISCELLANEOUS THERAPEUTIC AGENTS,M-Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02500469,MISCELLANEOUS THERAPEUTIC AGENTS,Mar-Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02500310,MISCELLANEOUS THERAPEUTIC AGENTS,NAT-Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02500434,MISCELLANEOUS THERAPEUTIC AGENTS,pms-Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02505843,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02501090,MISCELLANEOUS THERAPEUTIC AGENTS,Teva-Teriflunomide teriflunomide,e.g. azathioprine or 6 mercaptopurine,14 mg,Tablet,True
+02269201,MISCELLANEOUS THERAPEUTIC AGENTS,Avonex interferon beta 1-a,e.g. azathioprine or 6 mercaptopurine,30 mcg,Injection,True
+02418320,MISCELLANEOUS THERAPEUTIC AGENTS,Lemtrada alemtuzumab,e.g. azathioprine or 6 mercaptopurine,12 mg,Injection,True
+02237319,MISCELLANEOUS THERAPEUTIC AGENTS,Rebif interferon beta 1-a,e.g. azathioprine or 6 mercaptopurine,22 mcg,Injection,True
+02237320,MISCELLANEOUS THERAPEUTIC AGENTS,Rebif interferon beta 1-a,e.g. azathioprine or 6 mercaptopurine,44 mcg,Injection,True
+02318253,MISCELLANEOUS THERAPEUTIC AGENTS,Rebif interferon beta 1-a,e.g. azathioprine or 6 mercaptopurine,66 mcg,Injection,True
+02318261,MISCELLANEOUS THERAPEUTIC AGENTS,Rebif interferon beta 1-a,e.g. azathioprine or 6 mercaptopurine,132 mcg,Injection,True
+02169649,MISCELLANEOUS THERAPEUTIC AGENTS,Betaseron interferon beta 1-b,e.g. azathioprine or 6 mercaptopurine,0.3 mg,Injection,True
+02365480,MISCELLANEOUS THERAPEUTIC AGENTS,Gilenya fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02469936,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02487772,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02474743,MISCELLANEOUS THERAPEUTIC AGENTS,Mar-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02469715,MISCELLANEOUS THERAPEUTIC AGENTS,Mylan-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02469782,MISCELLANEOUS THERAPEUTIC AGENTS,pms-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02482606,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02469618,MISCELLANEOUS THERAPEUTIC AGENTS,Taro-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02469561,MISCELLANEOUS THERAPEUTIC AGENTS,Teva-Fingolimod fingolimod,e.g. azathioprine or 6 mercaptopurine,0.5 mg,Capsule,True
+02467224,MISCELLANEOUS THERAPEUTIC AGENTS,Ocrevus ocrelizumab,e.g. azathioprine or 6 mercaptopurine,30 mg,Injection,True
+02444399,MISCELLANEOUS THERAPEUTIC AGENTS,Ocrevus ocrelizumab,e.g. azathioprine or 6 mercaptopurine,125 mcg,Injection,True
+02444402,MISCELLANEOUS THERAPEUTIC AGENTS,Plegridy peginterferon beta-1a Injection,e.g. azathioprine or 6 mercaptopurine,63 mcg,Injection,True
+02404508,MISCELLANEOUS THERAPEUTIC AGENTS,Plegridy peginterferon beta-1a Injection,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02420201,MISCELLANEOUS THERAPEUTIC AGENTS,Tecfidera dimethyl fumarate Capsule,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02495341,MISCELLANEOUS THERAPEUTIC AGENTS,ACH-Dimethyl,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02495368,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02505762,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02505770,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Dimethyl Fumarate dimethyl fumarate Capsule,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02540746,MISCELLANEOUS THERAPEUTIC AGENTS,Auro-Dimethyl,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02540754,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02494809,MISCELLANEOUS THERAPEUTIC AGENTS,GLN-Dimethyl,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02494817,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02516047,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Dimethyl,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02516055,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02502690,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02502704,MISCELLANEOUS THERAPEUTIC AGENTS,Mar-Dimethyl Fumarate dimethyl fumarate Capsule,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02497026,MISCELLANEOUS THERAPEUTIC AGENTS,pms-Dimethyl,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02497034,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02513781,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Dimethyl,e.g. azathioprine or 6 mercaptopurine,120 mg,Injection,True
+02513803,MISCELLANEOUS THERAPEUTIC AGENTS,Fumarate,e.g. azathioprine or 6 mercaptopurine,240 mg,Injection,True
+02286386,MISCELLANEOUS THERAPEUTIC AGENTS,Tysabri natalizumab,e.g. azathioprine or 6 mercaptopurine,300 mg,Injection,True
+02460661,MISCELLANEOUS THERAPEUTIC AGENTS,Glatect glatiramer acetate,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02541440,MISCELLANEOUS THERAPEUTIC AGENTS,glatiramer acetate,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02511355,MISCELLANEOUS THERAPEUTIC AGENTS,Kesimpta ofatumumab,e.g. azathioprine or 6 mercaptopurine,20 mg,Injection,True
+02470179,MISCELLANEOUS THERAPEUTIC AGENTS,Mavenclad cladribine,e.g. azathioprine or 6 mercaptopurine,10 mg,Tablet,True
+02244550,MISCELLANEOUS THERAPEUTIC AGENTS,MB Health for specific criteria.,e.g. azathioprine or 6 mercaptopurine,3 mg,Tablet,True
+02244552,MISCELLANEOUS THERAPEUTIC AGENTS,MB Health for specific criteria.,e.g. azathioprine or 6 mercaptopurine,9 mg,Tablet,True
+02249685,MISCELLANEOUS THERAPEUTIC AGENTS,MB Health for specific criteria.,e.g. azathioprine or 6 mercaptopurine,9 mg,Injection,True
+02296462,MISCELLANEOUS THERAPEUTIC AGENTS,problems,use for the treatment of osteoporosis,0.5 mg,Injection,True
+02296470,MISCELLANEOUS THERAPEUTIC AGENTS,problems,use for the treatment of osteoporosis,1 mg,Injection,True
+02331667,MISCELLANEOUS THERAPEUTIC AGENTS,Advagraf tacrolimus Capsule,use for the treatment of osteoporosis,3 mg,Injection,True
+02296489,MISCELLANEOUS THERAPEUTIC AGENTS,Advagraf tacrolimus Capsule,use for the treatment of osteoporosis,5 mg,Injection,True
+02485877,MISCELLANEOUS THERAPEUTIC AGENTS,Advagraf tacrolimus Capsule,use for the treatment of osteoporosis,0.75 mg,Injection,True
+02485885,MISCELLANEOUS THERAPEUTIC AGENTS,Envarsus PA tacrolimus,use for the treatment of osteoporosis,1 mg,Injection,True
+02485893,MISCELLANEOUS THERAPEUTIC AGENTS,Release Tablet,use for the treatment of osteoporosis,4 mg,Injection,True
+02243144,MISCELLANEOUS THERAPEUTIC AGENTS,Release Tablet,use for the treatment of osteoporosis,0.5 mg,Injection,True
+02175991,MISCELLANEOUS THERAPEUTIC AGENTS,Prograf tacrolimus,use for the treatment of osteoporosis,1 mg,Capsule,True
+02175983,MISCELLANEOUS THERAPEUTIC AGENTS,Prograf tacrolimus,use for the treatment of osteoporosis,5 mg,Capsule,True
+02176009,MISCELLANEOUS THERAPEUTIC AGENTS,Prograf tacrolimus,use for the treatment of osteoporosis,5 mg,Injection,True
+02416816,MISCELLANEOUS THERAPEUTIC AGENTS,Prograf tacrolimus,use for the treatment of osteoporosis,0.5 mg,Injection,True
+02416824,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Tacrolimus tacrolimus,use for the treatment of osteoporosis,1 mg,Capsule,True
+02416832,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Tacrolimus tacrolimus,use for the treatment of osteoporosis,5 mg,Capsule,True
+02264560,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Tacrolimus tacrolimus,use for the treatment of osteoporosis,180 mg,Capsule,True
+02264579,MISCELLANEOUS THERAPEUTIC AGENTS,Myfortic mycophenolic acid Tablet,use for the treatment of osteoporosis,360 mg,Capsule,True
+02372738,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Mycophenolic,use for the treatment of osteoporosis,180 mg,Capsule,True
+02372746,MISCELLANEOUS THERAPEUTIC AGENTS,Acid,use for the treatment of osteoporosis,360 mg,Capsule,True
+02511673,MISCELLANEOUS THERAPEUTIC AGENTS,Acid,use for the treatment of osteoporosis,180 mg,Capsule,True
+02511681,MISCELLANEOUS THERAPEUTIC AGENTS,Mar-Mycophenolic Acid mycophenolic acid Tablet,use for the treatment of osteoporosis,360 mg,Capsule,True
+02518538,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Mycophenolic,use for the treatment of osteoporosis,180 mg,Capsule,True
+02518511,MISCELLANEOUS THERAPEUTIC AGENTS,Acid,use for the treatment of osteoporosis,360 mg,Capsule,True
+00718149,MISCELLANEOUS THERAPEUTIC AGENTS,Tryptan l-tryptophan,use for the treatment of osteoporosis,500 mg,Capsule,True
+02029456,MISCELLANEOUS THERAPEUTIC AGENTS,Tryptan l-tryptophan,use for the treatment of osteoporosis,500 mg,Capsule,True
+00654531,MISCELLANEOUS THERAPEUTIC AGENTS,Tryptan l-tryptophan Tablet,use for the treatment of osteoporosis,1 g,Capsule,True
+02248540,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Tryptophan l-tryptophan,use for the treatment of osteoporosis,500 mg,Capsule,True
+02248538,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Tryptophan l-tryptophan,use for the treatment of osteoporosis,500 mg,Capsule,True
+02458721,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Tryptophan l-tryptophan,use for the treatment of osteoporosis,750 mg,Tablet,True
+02248539,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Tryptophan l-tryptophan,use for the treatment of osteoporosis,1 g,Tablet,True
+02240334,MISCELLANEOUS THERAPEUTIC AGENTS,TEVA-Tryptophan l-tryptophan,use for the treatment of osteoporosis,500 mg,Capsule,True
+02240333,MISCELLANEOUS THERAPEUTIC AGENTS,TEVA-Tryptophan l-tryptophan,use for the treatment of osteoporosis,500 mg,Capsule,True
+02237250,MISCELLANEOUS THERAPEUTIC AGENTS,TEVA-Tryptophan l-tryptophan Tablet,use for the treatment of osteoporosis,1 g,Capsule,True
+02241888,MISCELLANEOUS THERAPEUTIC AGENTS,TEVA-Tryptophan l-tryptophan Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02241889,MISCELLANEOUS THERAPEUTIC AGENTS,Arava leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02478862,MISCELLANEOUS THERAPEUTIC AGENTS,Arava leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02478870,MISCELLANEOUS THERAPEUTIC AGENTS,Accel-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02256495,MISCELLANEOUS THERAPEUTIC AGENTS,Accel-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02256509,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02351668,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02351676,MISCELLANEOUS THERAPEUTIC AGENTS,Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02543575,MISCELLANEOUS THERAPEUTIC AGENTS,Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02543583,MISCELLANEOUS THERAPEUTIC AGENTS,Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02551918,MISCELLANEOUS THERAPEUTIC AGENTS,Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02551926,MISCELLANEOUS THERAPEUTIC AGENTS,MAR-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02261251,MISCELLANEOUS THERAPEUTIC AGENTS,MAR-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02261278,MISCELLANEOUS THERAPEUTIC AGENTS,Teva-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02283964,MISCELLANEOUS THERAPEUTIC AGENTS,Teva-Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,10 mg,Capsule,True
+02283972,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Leflunomide leflunomide Tablet,use for the treatment of osteoporosis,20 mg,Capsule,True
+02233542,MISCELLANEOUS THERAPEUTIC AGENTS,Diane-35,use for the treatment of osteoporosis,2 mg,Tablet,True
+02290308,MISCELLANEOUS THERAPEUTIC AGENTS,Cyestra-35,use for the treatment of osteoporosis,2 mg,Tablet,True
+02309556,MISCELLANEOUS THERAPEUTIC AGENTS,Cyproterone/Ethinyl,use for the treatment of osteoporosis,2 mg,Tablet,True
+02441489,MISCELLANEOUS THERAPEUTIC AGENTS,Estradiol,use for the treatment of osteoporosis,300 mcg,Tablet,True
+02454548,MISCELLANEOUS THERAPEUTIC AGENTS,Grastofil filgrastim Injection,use for the treatment of osteoporosis,480 mcg,Tablet,True
+02485575,MISCELLANEOUS THERAPEUTIC AGENTS,Grastofil filgrastim Injection,use for the treatment of osteoporosis,300 mcg,Tablet,True
+02485583,MISCELLANEOUS THERAPEUTIC AGENTS,Grastofil filgrastim Injection,use for the treatment of osteoporosis,480 mcg,Tablet,True
+02485591,MISCELLANEOUS THERAPEUTIC AGENTS,Nivestym filgrastim Injection,use for the treatment of osteoporosis,300 mcg,Tablet,True
+02485656,MISCELLANEOUS THERAPEUTIC AGENTS,Nivestym filgrastim Injection,use for the treatment of osteoporosis,480 mcg,Tablet,True
+02520990,MISCELLANEOUS THERAPEUTIC AGENTS,Nivestym filgrastim Injection,use for the treatment of osteoporosis,300 mcg,Tablet,True
+02521008,MISCELLANEOUS THERAPEUTIC AGENTS,Nypozi filgrastim Injection,use for the treatment of osteoporosis,480 mcg,Tablet,True
+02387174,MISCELLANEOUS THERAPEUTIC AGENTS,Dificid fidaxomicin,use for the treatment of osteoporosis,200 mg,Tablet,True
+02464489,MISCELLANEOUS THERAPEUTIC AGENTS,Dificid fidaxomicin,use for the treatment of osteoporosis,267 mg,Tablet,True
+02464500,MISCELLANEOUS THERAPEUTIC AGENTS,Esbriet pirfenidone Tablets,use for the treatment of osteoporosis,801 mg,Tablet,True
+02537753,MISCELLANEOUS THERAPEUTIC AGENTS,Esbriet pirfenidone Tablets,use for the treatment of osteoporosis,267 mg,Tablet,True
+02537761,MISCELLANEOUS THERAPEUTIC AGENTS,Auro-Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,801 mg,Tablet,True
+02509938,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Pirfenidone pirfenidone,use for the treatment of osteoporosis,267 mg,Capsule,True
+02514702,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Pirfenidone pirfenidone,use for the treatment of osteoporosis,267 mg,Capsule,True
+02514710,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,801 mg,Capsule,True
+02550644,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,268 mg,Capsule,True
+02550652,MISCELLANEOUS THERAPEUTIC AGENTS,M-Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,801 mg,Capsule,True
+02531526,MISCELLANEOUS THERAPEUTIC AGENTS,M-Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,267 mg,Capsule,True
+02531534,MISCELLANEOUS THERAPEUTIC AGENTS,M-Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,801 mg,Capsule,True
+02488833,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Pirfenidone pirfenidone,use for the treatment of osteoporosis,267 mg,Capsule,True
+02488507,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Pirfenidone pirfenidone,use for the treatment of osteoporosis,267 mg,Capsule,True
+02488515,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,801 mg,Capsule,True
+02443066,MISCELLANEOUS THERAPEUTIC AGENTS,Sandoz Pirfenidone pirfenidone Tablets,use for the treatment of osteoporosis,100 mg,Capsule,True
+02443074,MISCELLANEOUS THERAPEUTIC AGENTS,Ofev nintedanib Capsule,use for the treatment of osteoporosis,150 mg,Capsule,True
+02526891,MISCELLANEOUS THERAPEUTIC AGENTS,Ofev nintedanib Capsule,use for the treatment of osteoporosis,100 mg,Capsule,True
+02526905,MISCELLANEOUS THERAPEUTIC AGENTS,Auro-Nintedanib nintedanib Capsule,use for the treatment of osteoporosis,150 mg,Capsule,True
+02550849,MISCELLANEOUS THERAPEUTIC AGENTS,Auro-Nintedanib nintedanib Capsule,use for the treatment of osteoporosis,100 mg,Capsule,True
+02540762,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Nintedanib nintedanib Capsule,use for the treatment of osteoporosis,150 mg,Capsule,True
+02242471,MISCELLANEOUS THERAPEUTIC AGENTS,Dostinex cabergoline,use for the treatment of osteoporosis,0.5 mg,Tablet,True
+02455897,MISCELLANEOUS THERAPEUTIC AGENTS,Apo-Cabergoline cabergoline,use for the treatment of osteoporosis,0.5 mg,Tablet,True
+02549611,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Cabergoline cabergoline,use for the treatment of osteoporosis,0.5 mg,Tablet,True
+02530139,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Cabergoline cabergoline,use for the treatment of osteoporosis,10 mg,Tablet,True
+02530147,MISCELLANEOUS THERAPEUTIC AGENTS,Koselugo selumetinib Capsule,use for the treatment of osteoporosis,25 mg,Tablet,True
+02524627,MISCELLANEOUS THERAPEUTIC AGENTS,Koselugo selumetinib Capsule,use for the treatment of osteoporosis,1 mg,Tablet,True
+02524635,MISCELLANEOUS THERAPEUTIC AGENTS,Koselugo selumetinib Capsule,use for the treatment of osteoporosis,1.5 mg,Tablet,True
+02524643,MISCELLANEOUS THERAPEUTIC AGENTS,Sohonos palovarotene,use for the treatment of osteoporosis,2.5 mg,Capsule,True
+02524651,MISCELLANEOUS THERAPEUTIC AGENTS,Sohonos palovarotene,use for the treatment of osteoporosis,5 mg,Capsule,True
+02524678,MISCELLANEOUS THERAPEUTIC AGENTS,Sohonos palovarotene,use for the treatment of osteoporosis,10 mg,Capsule,True
+02374900,MISCELLANEOUS THERAPEUTIC AGENTS,Visanne dienogest,use for the treatment of osteoporosis,2 mg,Tablet,True
+02493055,MISCELLANEOUS THERAPEUTIC AGENTS,Aspen-Dienogest dienogest,use for the treatment of osteoporosis,2 mg,Tablet,True
+02498189,MISCELLANEOUS THERAPEUTIC AGENTS,Jamp Dienogest dienogest,use for the treatment of osteoporosis,2 mg,Tablet,True
+02543613,MISCELLANEOUS THERAPEUTIC AGENTS,M-Dienogest dienogest,use for the treatment of osteoporosis,2 mg,Tablet,True
+02551683,MISCELLANEOUS THERAPEUTIC AGENTS,Mar-Dienogest dienogest,use for the treatment of osteoporosis,2 mg,Tablet,True
+02473232,RESPIRATORY TRACT AGENTS,Administration criteria,use for the treatment of osteoporosis,200 mg,Tablet,True
+02496135,RESPIRATORY TRACT AGENTS,Fasenra benralizumab 30 mg/mL Injection,use for the treatment of osteoporosis,200 mg,Tablet,True
+02492989,RESPIRATORY TRACT AGENTS,Administration Criteria,use for the treatment of osteoporosis,200 mg,Tablet,True
+02492997,RESPIRATORY TRACT AGENTS,Nucala mepolizumab 100mg/ml Injection,use for the treatment of osteoporosis,200 mg,Tablet,True
+02529548,RESPIRATORY TRACT AGENTS,Tezspire ezepelumab,use for the treatment of osteoporosis,110mg,Syringe,True
+02529556,RESPIRATORY TRACT AGENTS,Tezspire ezepelumab,use for the treatment of osteoporosis,110mg,Syringe,True
+02239630,ANTI-INFECTIVE AGENTS,Tobi tobramycin,use for the treatment of osteoporosis,60 mg,Syringe,True
+02389622,ANTI-INFECTIVE AGENTS,Teva-Tobramycin tobramycin,use for the treatment of osteoporosis,60 mg,Syringe,True
+02424622,ANTI-INFECTIVE AGENTS,Posanol posaconazole,use for the treatment of osteoporosis,100 mg,Syringe,True
+02542021,ANTI-INFECTIVE AGENTS,GLN-Posaconazole posaconazole,use for the treatment of osteoporosis,100 mg,Syringe,True
+02544644,ANTI-INFECTIVE AGENTS,Mint-Posaconazole posaconazole,use for the treatment of osteoporosis,100 mg,Syringe,True
+02496259,ANTI-INFECTIVE AGENTS,Sandoz Posaconazole posaconazole,use for the treatment of osteoporosis,100 mg,Syringe,True
+02543311,ANTI-INFECTIVE AGENTS,Taro-Posaconazole posaconazole,use for the treatment of osteoporosis,100 mg,Syringe,True

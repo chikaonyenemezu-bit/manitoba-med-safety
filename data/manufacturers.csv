@@ -1,0 +1,551 @@
+abbreviation,manufacturer_name
+AAA,AA Pharma Inc
+ABB,Abbott Laboratories Ltd.
+ABV,AbbVie Corporation (an Abbott Company)
+ACC,Accel Pharma
+ACP,Accelra Pharma Canada
+ACH,Accord Healthcare Inc.
+APC,Acerus Pharmaceuticals Corporation
+ACT,Actelion Pharmaceuticals Ltd
+ACV,Actavis Pharma Company (was Cobalt)
+ABP,Activa Brand Products Inc.
+ADA,Adams Labs Ltd.
+ADP,Adapt Pharma Operations Limited
+ADI,Adria Laboratories of Canada Ltd.
+AAC,Advanced Accelerator Application USA. Inc.
+AVR,Advanced Research Laboratories
+ADV,Advanz Pharma Inc.
+APL,Aegerion Pharmaceuticals (Canada) Ltd.
+AEQ,Aequus Pharmaceuticals
+AJC,Agila Jamp Canada Inc.
+AGO,Agouron Pharmaceuticals Canada
+AKC,Akcea Therapeutics Inc.
+AKN,Akorn Pharmaceuticals Canada Ltd.
+ABT,Albert Pharma Inc.
+ALC,Alcon Canada Inc.
+ASC,Alera Skin Care Products Inc.
+ALP,Alexion Pharmaceuticals Inc.
+ALK,Alk-Abello A/S
+AHA,Allen & Hanburys GlaxoCanada
+ALL,Allergan Inc.
+AHC,Allergan Herbert Skin Care (Division of ALL)
+ACL,Allergy Canada Limited
+AMI,Allison Medical Inc.
+ALM,Almirall Limited
+ALT,Alti-med (now Teva)
+AHI,Altius Healthcare Inc.
+AAP,Alva-AMCO Pharmacal Companies
+ALV,Alveda Pharmaceuticals Inc.
+ANB,Alnylam Netherlands B.V.
+ALZ,Alza Pharms
+AMB,Ambicare Pharmaceuticals Inc.
+AMD,Amdipharm International Ltd.
+AGA,Amgen Canada Inc
+AMT,Amicus Therapeutics
+AMS,Amphastar
+AMP,Amylyx Pharmaceuticals Inc.
+ALG,Analog Pharma Canada
+ANP,Angita Pharma
+ANT,Anthra Pharmaceuticals Inc.
+APX,Apotex Inc.
+AIN,Apopharma Inc.
+APT,Aptalis Pharma Canada
+ARA,Ara Pharmaceuticals Inc.
+ARC,Aralez Pharmaceuticals Canada Inc.
+ABI,"Arcutis Biotherapeutics, INC."
+ARG,Argenx BV
+ARP,Ariad Pharmaceuticals Inc.
+ADC,Ascensia Diabetes Care Canada
+ASH,Aspen Pharma
+APH,Aspri Pharma
+ATA,Asta Medica
+ASP,Astella Pharma Inc. (was Fujisawa Canada Inc.)
+AZC,AstraZeneca Canada Inc. (was ZEN)
+APS,Athena Pharmaceutiques SAS
+ATP,Atlanta Pharma Inc.
+ATL,Atlas Laboratory Inc.
+ATN,Atnahs Pharma UK Ltd.
+API,Aurium Pharma Inc.
+AUP,Auro Pharma
+ACM,Auto Control Medical
+AUX,Auxilium Pharmaceuticals Inc.
+AVP,Avir Pharma
+AVD,Avondale (Brinny) Chemicals
+AXC,Axcan Pharma Inc.
+AXS,Axsome Malta Ltd.
+AYE,Ayerst Laboratories
+AZU,Azurity Pharmaceuticals
+BAK,Baker Cummins
+BDI,Bard Davol Inc.
+BPI,Barr Laboratories Inc.
+BTC,Barrier Therapeutics Canada Inc.
+BML,Basilea Medical Ltd
+BHC,Bausch Health Canada Inc.
+BSH,Bausch & Lomb Pharmaceuticals Inc.
+BAX,Baxter Healthcare Corporation
+BAY,Bayer Inc.
+BTD,Becton Dickinson Canada Inc.
+BEE,Beecham Laboratories
+BSG,Beigene Switzerland GMBH
+BEX,Berlex Canada Inc.
+BER,Berna Biotech Ltd.
+BSA,Biocodex SA
+BCI,Biocryst Pharmaceuticals Inc.
+BIG,Biogen Idec Canada Inc.
+BIC,Biomarin Pharmaceutical Canada Inc.
+BMP,Biomed Pharma
+BMD,Biomed 2002 Inc.
+BIO,Bioniche Pharma Canada
+BUC,Bionume USA Corporation
+BIP,Biosyent Pharma Inc.
+BPC,Biovail Pharmaceuticals Canada (was CRY)
+BLC,Blistex Corporation
+BLO,Block Drug Company (now GlaxoSmithKline)
+BMC,Blueprint Medicines Corporation
+BOE,Boehringer Ingelheim Canada Ltd.
+BOM,Boehringer Mannheim Canada (now Hoffmann-LaRoche)
+BOO,Boots Healthcare USA Inc.
+FLI,Boots Pharmaceuticals Ltd.
+BGP,BGP Pharma ULC
+BRI,"Bristol Labs, Division of"
+SQU,Bristol Myers Squibb Canada Co.
+PQU,Bristol Myers Squibb Pharma Group (Division of SQU)
+BTN,BTNX Inc.
+CHA,Chavin Pharmaceuticals Ltd.
+CPM,Canapharm Manufacturing Inc.
+CDX,Canderm Pharma Inc.
+CAN,Canvita Canada LTD.
+CAP,Canprev Natural
+CPL,Carter-Horner Corp.
+CCP,CellChem Pharmaceuticals Inc.
+CHF,Cedona Pharmaceuticals
+CEL,Celgene
+CHC,Celltrion Healthcare Co Ltd.
+CEP,Celopharma
+CBS,Center Labs Division EM Industries
+CBI,Centocor Ortho Biotech Inc.
+CGX,Ceragenix
+CAG,Cheplapharm
+CCA,Chiesi Canada Corp.
+CRN,Chiron S.R.L.
+CDC,Church & Dwight Canada Corp.
+CBA,Ciba-Geigy Canada Ltd. (now Novartis)
+CBV,"Ciba Vision, Division CBA (now Novartis)"
+CPH,Cipher Pharmaceuticals
+CPK,Clay-Park Labs Inc.
+COB,Cobalt Pharmaceuticals (now Actavis)
+CPA,Colgate Oral Pharmaceuticals Inc.
+CLC,Columbia Laboratories Canada Inc.
+CNG,CoNaught Lab Inc.
+CVO,Convatec
+CLL,CorePharma LLC
+CVP,Covis Pharma B.V.
+CRY,Crystaal Co. (now Biovail)
+CPC,Cubist Pharmaceuticals Canada Inc.
+CUB,Cutter Biological Division Miles Lab
+CYM,Cyanamid Canada
+CYP,Cycle Pharma
+CYI,Cytex Pharmaceuticals Inc.
+DCL,D.C. Lab Ltd.
+DCM,D & C Mobility Solutions
+DBU,David Bull Laboratories
+DPL,Deciphera Pharmaceuticals LLC.
+DEL,DEL Pharmaceuticals (Canada)
+DPY,Deprenyl Research Ltd.
+DER,Dermik Laboratories Canada Inc.
+DEM,Dermtek Pharmaceuticals Ltd.
+DES,Desbergers Ltée.
+DMI,Dex Medical Inc.
+DCC,Dexcom Canada Co.
+DIM,Dimethaid Health Care
+DKT,"Dioptic Laboratories, (Division of AKN)"
+DPA,Dispensa Pharm Canada Inc.
+DOM,Dominion Pharmacal
+DFS,Dompe Farmaceutici S.P.A
+DOP,Domrex Pharma Inc.
+DRL,Dr. Reddy’s Laboratorie
+DRX,Draxis Health Inc.
+DTC,Drug Trading Co. Ltd.
+DUI,Duchesnay Inc.
+DPM,Du Pont Merck Pharma (now Bristol Myers Squibb)
+DUP,Du Pont Pharma (now Bristol Myers Squibb)
+DPI,Duramed Pharmaceuticals Inc.
+EIS,Eisai Ltd
+ELA,Elan Pharmaceuticals Inc.
+EPD,"Elanco, Division of LIL"
+LIL,Eli Lilly Canada Inc.
+ELV,Elvium Life Sciences
+EMB,Embecta
+EMD,EMD Canada Inc.
+ENP,Encysive Pharmaceuticals
+ENI,Endoceutics INC
+END,Endo Canada (Division of DUP)
+EDO,Endo Operations LTD. (Ireland)
+EVL,Endo Ventures LTD.
+EHS,Entra Health Systems
+ERF,ERFA Canada Inc.
+EPS,Essential Pharma Switzerland GMBH
+ETI,Ethypharm Inc
+EUG,Eugia Pharma Inc.
+EPI,Euro-Pharm International Canada Inc.
+EVA,Evans Medical Ltd.
+FLD,Faulding Canada Inc.
+FER,Ferrer International
+FEI,Ferring Inc.
+FIS,Fisons Corporation Ltd.
+FLC,Forest Laboratories Canada Inc.
+FTL,Forest Tosara Limited
+FTI,Forus Therapeutics Inc.
+FFR,Fournier Laboratories
+FRS,FRS/MSD to Merck Frosst Canada Inc.
+FKC,Fresenius Kabi Canada Inc.
+FUJ,Fujisawa Canada Inc. (now Astella Pharma Inc.)
+GVI,Garvinci
+GAC,Galderma Canada Inc.
+GAL,Galenova
+GEI,"Geigy Pharma, Division CBA (now Novartis)"
+GEL,Gelda Scientific and Industrial Development Corporation
+GEU,Genderm Corp.
+GMP,Generic Medical Partners
+GEM,GenMed (Division of PFI)
+GIL,Gilead Science Inc.
+GPM,Genpharm Inc.
+GZY,Genzyme Canada Inc.
+GFR,GFR Pharma Ltd.
+GLD,"Glades, Division of STI"
+GSK,GlaxoSmithKline Inc.
+GOW,Glaxo Wellcome
+GLM,Glenmark Pharmaceuticals
+GLE,Glenwood Laboratories Canada Inc.
+MMH,Graceway Pharmaceuticals (was 3M Pharmaceuticals)
+GTH,Grifols Therapeutics LLC
+GDC,Guardian Drug Company INC
+GWR,GW Research Ltd.
+HPC,Healthpoint Canada
+HCL,Hikma Canada LTD.
+HDI,Hill Dermaceuticals Inc.
+HLS,HLS Therapeutics Inc.
+HLV,HLV
+SUY,HJ Sutton
+HMR,Hoechst Marion Roussel Canada
+HLR,Hoffmann-LaRoche Ltd.
+ICI,Hollester-Stien Canada Division Miles Lab
+HOD,Home Diagnostics Inc.
+HPI,Horizon Pharma Ireland Ltd.
+HTC,Horizon Therapeutics Canada
+HOI,Hospira Inc. (division of Abbott Laboratories)
+HTL,HTL-Strefa
+ICN,ICN Canada Ltd.
+IDO,Idorsia Pharmaceuticals Ltd.
+ICC,Incyte Corporation
+IMM,Immunex Corporation
+IIR,Immunocore Ireland Limited
+INC,Indivior Canada
+INV,Inno-Vite
+ILC,Insulet Corporation
+INS,Insulinpumps.ca
+IPI,Intercept Pharmaceuticals Inc.
+IFK,Interflak Canada Inc.
+INM,InterMune Canada Inc.
+IOL,Iolab Canada Inc.
+IPL,Ipsen Pharmaceuticals Canada Inc.
+IRL,Iroko International LP
+IVL,IVAX Laboratories
+JPH,Jacobus Pharmaceutical Company
+JAM,Jamieson Laboratories Ltd.
+JPC,Jamp Pharma Corp.
+JAN,Janssen Inc. (was MCN)
+JPI,Jazz Pharmaceuticals Ireland Limited
+JHP,JHP Pharmaceuticals
+JAJ,Johnson & Johnson Inc.
+JOU,Jouveingal Lab
+JHL,Jubilant Hollisterstier LLC
+JUP,Juno Pharmaceuticals
+KAL,Kaleo Inc.
+KEC,Kego Corporation
+KEY,Key Pharmaceuticals
+KPC,King Pharmaceuticals Canada Inc.
+KIN,Kinsmor Pharmaceuticals Canada
+KTI,Knight Therapeutics Inc.
+KSP,KSL Pharmaceuticals
+KVR,KVR Pharmaceuticals
+KKL,Kyowa Kirin Limited
+KYE,KYE Pharmaceuticals Inc.
+LAB,Labopharm
+LAI,Laboratoire Atlas Inc.
+LCI,Laboratoires Confab Inc.
+LRI,Laboratorie Riva
+LST,Laboratories Thea
+BIU,Lab Bio Chimique Inc
+NDA,Lab Nadeau Ltée
+LTN,Laurentian Laboratories
+LBI,Leadiant Biosciences Inc
+LDA,Leda Health Innovations Inc.
+LED,Lederle-Cyanamid Canada Inc.
+LEA,Lee-Adams Laboratories
+LEO,Leo Pharma Inc.
+LHL,Lifehealth Ltd.
+LIF,Life Scan
+LIG,Ligand Pharmaceuticals
+LIN,Linson Pharma Co.
+LPI,Linepharma International Limited
+LIH,Lioh Inc.
+LJP,Laboratoires Juvise Pharmaceuticals
+LOI,Loxo Oncology Inc.
+LUI,Luitpold Pharmaceuticals Inc.
+LPC,Lupin Pharma Canada
+LUD,Lundbeck Canada Inc.
+MCU,Mallinckrodt Canada ULC
+MNP,Mantra Pharma Inc.
+MRR,Marion Merrell Dow Canada
+MAR,Marcan Pharma
+MPC,Mayne Pharma Canada Inc. (Faulding Canada Inc.)
+MCN,MCN/ORT to OMC Ortho-McNeil Inc. (now Janssen-Ortho)
+MCL,"McNeil Pharmaceutical, (Division of OMC)"
+MDA,MDA Inc.
+MJN,Mead Johnson Nutritionals
+MEA,Meda AB
+MDX,Medexus
+MPD,Medical Plastic Devices
+MED,Medican Pharma Inc.
+XXX,Medicis Canada Ltd.
+MDC,Medisca Canada
+MEP,Medison Pharma Canada Inc.
+MEC,Medisure Canada Inc.
+MPI,Medtech Products Inc.
+MDT,Medtronic of Canada
+MEK,Medunik Canada
+MXL,MedXL Inc.
+MEL,Meliapharm Inc.
+MDK,Mendelikabs
+MFX,Merck Frosst Canada Ltd.
+MLI,Merus Labs Inc.
+MCI,Merz Pharma Canada Inc.
+MPG,Merz Pharmaceuticals
+MPH,Mint Pharmaceticals
+MIE,MIS Miles Canada Inc.
+MIT,Mitsubishi Tanabe Pharma Corp
+MIR,Mirum Pharmaceuticals INC
+MZZ,Metapharma
+MTP,Methapharma
+MMT,MM Therapeutics
+MMD,Montmed
+MER,MRR
+MVW,MVW Nutritionals Inc.
+MYL,Mylan Pharmaceuticals
+NBP,Nabi Biopharmaceuticals
+NAT,Natco Pharma
+NEC,Nestle Canada
+NES,Nestle Enterprises S.A.
+NHS,Nestle Health Science
+NEP,Neuraxpharm Pharmaceuticals
+NGP,Next Generation Pharma Inc.
+NRA,Nora Pharma Inc.
+NRD,Nordie Laboratories Inc
+NTI,Northern Therapeutics Inc.
+NBC,Nova Biomedical Canada Inc.
+NVT,Novartis Pharmaceuticals Canada Inc.
+NVO,"Novartis Opthalmics, Division of NVT"
+NOO,Novo Nordisk Canada Inc.
+NOP,Novopharm Ltd.
+NOW,NOW Supplements
+NPS,NPS Pharma Holdings Ltd
+NUM,Numark Laboratories Inc.
+NXP,Nu-Pharm Inc.
+NUP,Nutravite Pharmaceuticals Inc.
+NUI,Nutricorp International
+NYC,Nycomed Canada Inc.
+ODN,Odan Laboratories Ltd.
+OMA,Omega Laboratories Ltd.
+OPP,Ophtapharma Canada Inc.
+OPT,Optimapharma (Division of TAR)
+OPM,Optimer Pharmaceuticals Inc.
+OPI,Orbus Pharma Inc.
+ORA,Organika Health Products Inc.
+ORG,"Organon, Division of SAW"
+OPC,Orimed Pharma Corporation
+ORP,Orphan Medical Inc.
+ODM,Ortho Dermatological
+OMC,Ortho-McNeil Inc.
+ORX,Oryx Pharmaceuticals
+OSC,Oscient Pharmaceuticals Corp
+OTS,Otsuka
+OWE,Owen Manford
+PAP,Pace Pharmaceuticals Inc.
+PAL,Paladin Labs Inc.
+PHS,Pangeo Pharma Canada Inc.
+PPH,PAR Pharmaceuticals
+PAR,Pari Respiratory Equipment
+PDA,Parke-Davis
+PHI,Pharmaline Inc.
+PME,Pasteur Merieux Serums
+POG,Pathogenesis Canada
+PAT,Patriot (division of JOI)
+ELD,Paul Elder Pharmaceuticals
+PEI,Pediapharm Inc.
+PPI,PendoPharm Inc.
+PER,Perrigo International
+PFI,Pfizer Canada Inc.
+PSN,Pharma Stulln Inc.
+PMJ,Pharmacia Canada Inc.
+PPA,Pharmaceutical Partners of Canada Inc.
+PHP,Pharmapar Inc.
+PRZ,Pharmaris Canada Inc.
+PMS,Pharmascience Inc.
+PVR,Pharmavite Laboratories Inc.
+PML,Pharmel Inc.
+PMT,Pharmetics Inc.
+PCI,Phebra Canada Inc.
+PFP,Pierre Fabre Pharma Canada
+PMP,PremPharm Inc.
+PRC,Prestwick Canada
+PDL,Pro Doc Ltée.
+PGP,Procter & Gamble Pharmaceuticals Canada
+PRI,Prosan International B.V
+PRO,Proval Pharma
+PVE,"Provel, Division of LIL"
+PFR,Purdue Pharma
+QMD,Q Med Inc.
+RPI,Raptor Pharmaceuticals Inc.
+RAN,Ranbaxy Pharmaceuticals Inc.
+RPH,ratiopharm Inc. (now Teva)
+RAB,Recip AB
+RBP,Reckitt Benckister Pharmaceuticals
+RRD,Recordati Rare Diseases Canada Inc.
+RCA,"Reed & Carnrick, (Division of BLO)"
+RPR,Rhôné-Poulenc Rorer Canada
+RIG,"Rho Pharm, (Division of RPR)"
+ROP,Rhodiapharm
+RXP,Rhoxal Pharma Inc.
+RYP,Rhythm Pharmaceuticals Inc.
+RIP,Richmond Pharmaceuticals Inc.
+RIV,Riva Laboratoire Inc.
+RVX,Rivex Pharma Inc.
+RBT,Robert Pharmaceutical of Canada Inc.
+RCH,Roche Diagnostics
+RDC,Rodeca Inc.
+ROG,Rougier Pharma
+ROU,Roussel Canada Inc. (now Aventis)
+SIL,Sabex 2002 Inc. (now Sandoz)
+SAP,Salix Pharmaceuticals Inc.
+SBC,Samsung Bioepis Co. Ltd.
+SDZ,Sandoz Canada Inc. (was Sabex)
+SNP,Sands Pharmaceuticals
+SAH,Sanis Health Inc.
+SAA,Sanofi Aventis
+SAC,Sanofi Consumer Health Inc.
+SAN,Sanofi Pasteur
+SAW,Sanofi-Synthelabo Canada Inc.
+SAI,Santen Incorporated
+SCH,Schering Canada Inc.
+SRP,Schering-Plough Healthcare Products Canada (Division of SCH)
+SWZ,Schwarz Pharma
+SFD,Seaford Pharmaceuticals Inc.
+SGC,Seagen Canada Inc.
+SLP,Searchlight Pharma Inc.
+SEA,Searle Canada Inc.
+SEP,Sepracor
+STP,Septa Pharmaceuticals
+SRO,Serono Canada Inc.
+SEV,Servier Canada Inc.
+SPL,Seqirus PTY Ltd.
+SSG,Shandex Sales Group
+SHM,Sherwood Medical Co.
+SHI,Shire Canada Inc.
+SIG,Sigma-Tau Pharmaceuticals Inc.
+SIP,Sivem Pharmaceuticals
+STN,Sterinova
+SKM,SkyMed
+SNE,Smith & Nephew Inc.
+SPH,Solvay Pharma Inc.
+SCF,Source CF
+SMD,Source Medical
+SPT,Sprout Pharmaceuticals Canada LTD
+SPI,Squire Pharmaceuticals Inc.
+SDR,Stanley Pharmaceuticals (Division of VTH)
+STC,Stallergenes Canada
+SLL,Stella Pharmaceutical Canada Inc.
+STG,Sterigen
+SMI,SteriMax Inc.
+STM,Steri-Med
+SYN,Sterlin Winthrop
+STI,Stiefel Canada Inc.
+STR,Strides Pharma Canada Inc.
+SUM,Sumitomo Pharma
+SUN,Sun Pharma Canada Inc.
+SPG,Sun Pharma Global Fze
+SPC,Sunovion Pharmaceuticals Canada
+SWS,Swiss Herbal Remedies Ltd.
+SOB,Swedish Orphan Biovitrum AB (SOBI)
+SYP,Syncare
+TAI,Taiho Pharma Canada Inc.
+TBP,Tanvex BioPharma
+TDC,Tandem Diabetes Care
+TAK,Takeda Canada Inc.
+TAN,Tanta Pharmaceuticals Inc.
+TAP,Tap Pharmaceuticals (subsidiary of Abbott)
+TAR,Taro Pharmaceuticals Inc.
+TPT,TaroPharma
+TCH,Technilab Pharma Inc.
+TET,Teligent
+TER,Tercica Inc.
+TTL,Tersera Therapeutics LLC
+TEV,Teva Canada Innovation (was Novopharm)
+TNS,Teva Neuroscience
+TDD,The D Drops Company
+THM,Theramed Corp.
+THS,Therasense
+THT,Theratechnologies Inc.
+TIC,Tican Pharmaceuticals Ltd.
+TCD,Trans Canaderm Inc.
+THI,Tremblay Harrison Inc.
+TLI,Trianon Laboratoires Inc.
+TPC,Tribute Pharma Canada Inc.
+TRC,Trimel Pharmaceuticals Corporation
+TRI,Triton Pharma Inc.
+THC,Trillium Health Care Products Inc.
+TTI,Transkaryotic Therapies Inc. (U.S.A.)
+TRU,Trudell Medical International
+TYK,Tykess Pharmaceuticals
+UCB,UCB Canada
+ULT,Ultimed
+UGX,Ultragenyx
+UNT,United Therapeutics Corp
+ETU,Us Ethicals Inc.
+VAL,Valeant Canada Limited (formerly ICN)
+VPI,Valeo Pharma Inc.
+VAG,Valneva Austria GMBH
+VAP,Vanc Pharmaceuticals Inc.
+VEP,Vertex Pharmaceuticals Inc.
+VPH,Verity Pharmaceuticals Inc.
+VFM,Vifor Fresenius Medical Care Renal Pharma LTD
+VII,VIIV Health
+VIR,Virco Pharmaceuticals Canada
+VTH,Vita Health Products Inc.
+VPL,Vivus Pharmaceuticals Limited
+WAM,Wampole Brands
+WCI,Warner Chilcott
+WLA,Warner-Lambert Canada Inc.
+WLI,Watson Laboratories Inc.
+WPC,Watson Pharma Company
+WMP,Waymade PLC
+WBN,Webster Natural
+WEB,Webber Natural
+WLK,Welcker-Lyster Ltd.
+WSP,WellSpring Pharmaceutical Canada
+WST,Westcan Pharmaceuticals Ltd.
+WSQ,Westwood-Squibb
+WHB,Whitehall-Robins Inc.
+WLR,Wiler
+BUA,W.K. Buckley Ltd.
+WNP,WN Pharmaceuticals Ltd.
+WOC,Wokhardt UK Ltd.
+WYE,Wyeth Canada
+WAY,Wyeth-Ayerst Canada Inc.
+XPI,Xedition Pharmaceuticals Inc
+XEN,Xenex Laboratories Inc.
+YPS,Ypsomed
+ZDS,Zydus Pharmaceuticals (Canada) Inc.
+ZIL,Zila Pharmaceuticals Inc.
+ZIP,Zinda Pharmaceuticals
+ZYM,Zymcan Pharmaceuticals Inc.
