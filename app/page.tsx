@@ -44,7 +44,7 @@ export default function Home() {
           <div className="grid grid-cols-4 divide-x divide-white/10">
             {[
               { num: '4,075', label: 'Formulary DINs', sub: 'Manitoba Drug Benefits' },
-              { num: '105', label: 'EDS Drugs', sub: 'Exception Drug Status' },
+              { num: '772', label: 'EDS Drugs', sub: 'Exception Drug Status' },
               { num: '550', label: 'Manufacturers', sub: 'Registered in Manitoba' },
               { num: 'FHIR R4', label: 'API Standard', sub: 'Canada Health Infoway' },
             ].map((s, i) => (
@@ -71,7 +71,7 @@ export default function Home() {
             { href: '/formulary', accent: 'bg-blue-600', iconBg: 'bg-blue-50', iconColor: 'text-blue-600', icon: '⌕', title: 'Formulary Search', desc: 'Search 4,075 DINs from the Manitoba Drug Benefits Formulary. Interchangeable groups, EDS status, and pricing.', tags: ['MDBIF', 'DIN', 'Interchangeable'], tagColor: 'bg-blue-50 text-blue-700' },
             { href: '/reconciliation', accent: 'bg-emerald-500', iconBg: 'bg-emerald-50', iconColor: 'text-emerald-600', icon: '≠', title: 'Reconciliation', desc: 'Simulate DPIN-integrated admission reconciliation. Detect dose mismatches, unreported medications, and PRISCUS flags.', tags: ['DPIN', 'PRISCUS', 'ROP'], tagColor: 'bg-emerald-50 text-emerald-700' },
             { href: '/fhir', accent: 'bg-violet-600', iconBg: 'bg-violet-50', iconColor: 'text-violet-600', icon: '{}', title: 'FHIR API Explorer', desc: 'Live FHIR R4 Medication Bundle queries with Canadian DIN system URI and Canada Health Infoway pan-Canadian profiles.', tags: ['FHIR R4', 'HL7', 'Infoway'], tagColor: 'bg-violet-50 text-violet-700' },
-            { href: '/eds', accent: 'bg-amber-500', iconBg: 'bg-amber-50', iconColor: 'text-amber-600', icon: '⚠', title: 'Exception Drug Status', desc: 'Browse all 105 EDS drugs by therapeutic category. Coverage criteria and MDSTC approval requirements.', tags: ['EDS', 'MDSTC', 'Part 3'], tagColor: 'bg-amber-50 text-amber-700' },
+            { href: '/eds', accent: 'bg-amber-500', iconBg: 'bg-amber-50', iconColor: 'text-amber-600', icon: '⚠', title: 'Exception Drug Status', desc: 'Browse all 772 EDS drugs by therapeutic category. Coverage criteria and MDSTC approval requirements.', tags: ['EDS', 'MDSTC', 'Part 3'], tagColor: 'bg-amber-50 text-amber-700' },
           ].map((f, i) => (
             <Link key={i} href={f.href} className="group bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-200">
               <div className={`h-1 ${f.accent}`} />
@@ -154,7 +154,7 @@ export default function Home() {
               </p>
               <div className="space-y-3 mb-6">
                 {[
-                  '105 EDS drug entries across Manitoba formulary',
+                  '772 EDS drug entries across Manitoba formulary',
                   'Organised by therapeutic category — Cardiovascular, Oncology, Neurology and more',
                   'MDSTC clinical criteria explained for each drug group',
                   'Cross-referenced with interchangeability formulary by DIN',
