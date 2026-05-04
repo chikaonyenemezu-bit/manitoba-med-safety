@@ -150,12 +150,12 @@ export default function Home() {
               <div className="text-amber-600 text-xs font-bold tracking-widest uppercase mb-3">Exception Drug Status</div>
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Coverage that requires clinical criteria approval</h2>
               <p className="text-gray-500 text-sm leading-relaxed mb-6">
-                Certain drugs are approved for coverage under the Manitoba EDS Program only when specific clinical criteria are met, as recommended by the Manitoba Drug Standards and Therapeutics Committee (MDSTC). This platform surfaces all 105 EDS drugs organised by therapeutic category so clinicians and pharmacists can quickly identify coverage requirements at point of care.
+                Certain drugs are approved for coverage under the Manitoba EDS Program only when specific clinical criteria are met, as recommended by the Manitoba Drug Standards and Therapeutics Committee (MDSTC). This platform surfaces all 772 EDS drugs organised by therapeutic category so clinicians and pharmacists can quickly identify coverage requirements at point of care.
               </p>
               <div className="space-y-3 mb-6">
                 {[
                   '772 EDS drug entries across Manitoba formulary',
-                  'Organised by therapeutic category — Cardiovascular, Oncology, Neurology and more',
+                  'Organised by therapeutic category — Cardiovascular, Central Nervous System, Hormones and more',
                   'MDSTC clinical criteria explained for each drug group',
                   'Cross-referenced with interchangeability formulary by DIN',
                 ].map((label, i) => (
