@@ -19,6 +19,16 @@ const EXAMPLE_QUERIES = [
     description: 'Lookup by Canadian Drug Identification Number',
   },
   {
+    label: 'Single Medication by DIN',
+    url: '/api/fhir/Medication/02223562',
+    description: 'Individual Medication resource — pms-Metformin',
+  },
+  {
+    label: 'MedicationKnowledge by DIN',
+    url: '/api/fhir/Medication/02223562?_type=MedicationKnowledge',
+    description: 'Formulary coverage and regulatory information',
+  },
+  {
     label: 'Search atorvastatin',
     url: '/api/fhir/Medication?_text=atorvastatin',
     description: 'Interchangeable atorvastatin products',

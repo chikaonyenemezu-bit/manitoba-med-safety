@@ -3,26 +3,27 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white overflow-x-hidden">
 
+      {/* Hero */}
       <div className="relative min-h-[580px] flex items-center overflow-hidden">
         <Image src="/images/pharmacist-counter.jpg" alt="Pharmacist at pharmacy counter" fill className="object-cover object-center" priority />
         <div className="absolute inset-0 bg-gradient-to-r from-[#0a1628]/90 via-[#0a1628]/70 to-transparent" />
-        <div className="relative z-10 max-w-6xl mx-auto px-8 py-20 w-full">
+        <div className="relative z-10 max-w-6xl mx-auto px-4 md:px-8 py-20 w-full">
           <div className="max-w-xl">
             <div className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-4 py-1.5 mb-6">
               <span className="w-2 h-2 bg-green-400 rounded-full" />
               <span className="text-white/90 text-xs font-medium tracking-wide">Live · Manitoba Drug Benefits Formulary · April 1, 2026</span>
             </div>
-            <h1 className="text-5xl font-bold text-white leading-tight mb-4">
+            <h1 className="text-3xl md:text-5xl font-bold text-white leading-tight mb-4">
               Manitoba<br />
               <span className="text-blue-300">Medication Safety</span><br />
               Platform
             </h1>
-            <p className="text-white/70 text-base leading-relaxed mb-8 max-w-md">
+            <p className="text-white/70 text-sm md:text-base leading-relaxed mb-8 max-w-md">
               FHIR R4 medication reconciliation demonstrating DPIN-integrated admission workflow for Manitoba hospital pharmacists and clinical informaticists.
             </p>
-            <div className="flex gap-3">
+            <div className="flex flex-wrap gap-3">
               <Link href="/formulary" className="bg-white text-blue-900 font-semibold text-sm px-6 py-3 rounded-lg hover:bg-blue-50 transition-colors">Search Formulary</Link>
               <Link href="/reconciliation" className="bg-white/10 border border-white/25 text-white font-semibold text-sm px-6 py-3 rounded-lg hover:bg-white/20 transition-colors">Try Reconciliation</Link>
             </div>
@@ -39,16 +40,17 @@ export default function Home() {
         </div>
       </div>
 
+      {/* Stats bar */}
       <div className="bg-blue-900 text-white">
-        <div className="max-w-6xl mx-auto px-8">
-          <div className="grid grid-cols-4 divide-x divide-white/10">
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
+          <div className="grid grid-cols-2 md:grid-cols-4 divide-x divide-y md:divide-y-0 divide-white/10">
             {[
               { num: '4,075', label: 'Formulary DINs', sub: 'Manitoba Drug Benefits' },
               { num: '772', label: 'EDS Drugs', sub: 'Exception Drug Status' },
               { num: '550', label: 'Manufacturers', sub: 'Registered in Manitoba' },
               { num: 'FHIR R4', label: 'API Standard', sub: 'Canada Health Infoway' },
             ].map((s, i) => (
-              <div key={i} className="px-8 py-5 text-center">
+              <div key={i} className="px-4 md:px-8 py-5 text-center">
                 <div className="text-2xl font-bold tracking-tight">{s.num}</div>
                 <div className="text-blue-200 text-xs font-medium mt-0.5">{s.label}</div>
                 <div className="text-blue-400 text-[10px] mt-0.5">{s.sub}</div>
@@ -58,15 +60,16 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="max-w-6xl mx-auto px-8 py-16">
+      {/* Feature cards */}
+      <div className="max-w-6xl mx-auto px-4 md:px-8 py-16">
         <div className="text-center mb-12">
           <div className="text-blue-600 text-xs font-bold tracking-widest uppercase mb-3">Platform Modules</div>
-          <h2 className="text-3xl font-bold text-gray-900">Four tools. One platform.</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Four tools. One platform.</h2>
           <p className="text-gray-500 text-sm mt-3 max-w-xl mx-auto leading-relaxed">
             Built on real Manitoba Health data. Aligned with Canada Health Infoway ACCESS Health initiative and Accreditation Canada ROP standards.
           </p>
         </div>
-        <div className="grid grid-cols-4 gap-5">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {[
             { href: '/formulary', accent: 'bg-blue-600', iconBg: 'bg-blue-50', iconColor: 'text-blue-600', icon: '⌕', title: 'Formulary Search', desc: 'Search 4,075 DINs from the Manitoba Drug Benefits Formulary. Interchangeable groups, EDS status, and pricing.', tags: ['MDBIF', 'DIN', 'Interchangeable'], tagColor: 'bg-blue-50 text-blue-700' },
             { href: '/reconciliation', accent: 'bg-emerald-500', iconBg: 'bg-emerald-50', iconColor: 'text-emerald-600', icon: '≠', title: 'Reconciliation', desc: 'Simulate DPIN-integrated admission reconciliation. Detect dose mismatches, unreported medications, and PRISCUS flags.', tags: ['DPIN', 'PRISCUS', 'ROP'], tagColor: 'bg-emerald-50 text-emerald-700' },
@@ -90,15 +93,16 @@ export default function Home() {
         </div>
       </div>
 
+      {/* DPIN section */}
       <div className="bg-gray-50 py-16">
-        <div className="max-w-6xl mx-auto px-8">
-          <div className="grid grid-cols-2 gap-16 items-center">
-            <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl">
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
+            <div className="relative h-64 md:h-80 rounded-2xl overflow-hidden shadow-xl">
               <Image src="/images/pharmacist-shelf.jpg" alt="Pharmacist reviewing medication" fill className="object-cover object-center" />
             </div>
             <div>
               <div className="text-blue-600 text-xs font-bold tracking-widest uppercase mb-3">DPIN Integration</div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">Medication reconciliation at hospital admission</h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Medication reconciliation at hospital admission</h2>
               <p className="text-gray-500 text-sm leading-relaxed mb-6">
                 The Manitoba Drug Programs Information Network connects every pharmacy in the province. This platform demonstrates how DPIN dispensing history would be used at hospital admission to detect discrepancies between what patients report and what was actually dispensed.
               </p>
@@ -120,35 +124,37 @@ export default function Home() {
         </div>
       </div>
 
+      {/* FHIR section */}
       <div className="py-16">
-        <div className="max-w-6xl mx-auto px-8">
-          <div className="grid grid-cols-2 gap-16 items-center">
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
             <div>
               <div className="text-violet-600 text-xs font-bold tracking-widest uppercase mb-3">FHIR R4 API</div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">Canadian FHIR profiles implemented correctly</h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Canadian FHIR profiles implemented correctly</h2>
               <p className="text-gray-500 text-sm leading-relaxed mb-6">
                 Canada Health Infoway is mandating FHIR R4 through the ACCESS Health initiative. Shared Health Manitoba is actively implementing FHIR interfaces. This platform demonstrates a working FHIR R4 Medication API using real Manitoba formulary data and Canadian-specific profiles.
               </p>
-              <div className="bg-gray-900 rounded-xl p-4 font-mono text-xs leading-relaxed">
+              <div className="bg-gray-900 rounded-xl p-4 font-mono text-xs leading-relaxed overflow-x-auto">
                 <div className="text-gray-500 mb-1">GET /api/fhir/Medication?_text=metformin</div>
                 <div><span className="text-gray-500">"system": </span><span className="text-green-400">"http://health.canada.ca/din"</span></div>
                 <div><span className="text-gray-500">"profile": </span><span className="text-pink-400">"profile-medication-ca-core"</span></div>
                 <div><span className="text-gray-500">"total": </span><span className="text-yellow-400">20</span><span className="text-gray-500"> results</span></div>
               </div>
             </div>
-            <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl">
+            <div className="relative h-64 md:h-80 rounded-2xl overflow-hidden shadow-xl">
               <Image src="/images/clinician-laptop.jpg" alt="Clinician using laptop" fill className="object-cover object-center" />
             </div>
           </div>
         </div>
       </div>
 
+      {/* EDS section */}
       <div className="bg-amber-50 py-16">
-        <div className="max-w-6xl mx-auto px-8">
-          <div className="grid grid-cols-2 gap-16 items-center">
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
             <div>
               <div className="text-amber-600 text-xs font-bold tracking-widest uppercase mb-3">Exception Drug Status</div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">Coverage that requires clinical criteria approval</h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Coverage that requires clinical criteria approval</h2>
               <p className="text-gray-500 text-sm leading-relaxed mb-6">
                 Certain drugs are approved for coverage under the Manitoba EDS Program only when specific clinical criteria are met, as recommended by the Manitoba Drug Standards and Therapeutics Committee (MDSTC). This platform surfaces all 772 EDS drugs organised by therapeutic category so clinicians and pharmacists can quickly identify coverage requirements at point of care.
               </p>
@@ -169,22 +175,23 @@ export default function Home() {
                 Browse EDS Drugs
               </Link>
             </div>
-            <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl">
+            <div className="relative h-64 md:h-80 rounded-2xl overflow-hidden shadow-xl">
               <Image src="/images/clinical-team.jpg" alt="Clinical team reviewing medication criteria" fill className="object-cover object-center" />
             </div>
           </div>
         </div>
       </div>
 
+      {/* Manitoba Health IT section */}
       <div className="bg-blue-900 py-16">
-        <div className="max-w-6xl mx-auto px-8">
-          <div className="grid grid-cols-2 gap-16 items-center">
-            <div className="relative h-72 rounded-2xl overflow-hidden shadow-xl">
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
+            <div className="relative h-64 md:h-72 rounded-2xl overflow-hidden shadow-xl">
               <Image src="/images/pharmacist-lab.jpg" alt="Clinical pharmacists" fill className="object-cover object-center" />
             </div>
             <div>
               <div className="text-blue-300 text-xs font-bold tracking-widest uppercase mb-3">Manitoba Health IT Context</div>
-              <h2 className="text-3xl font-bold text-white mb-4">Built for Shared Health Manitoba</h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">Built for Shared Health Manitoba</h2>
               <p className="text-blue-200 text-sm leading-relaxed mb-6">
                 This platform demonstrates knowledge of Manitoba provincial health infrastructure — DPIN, MHIN, the Manitoba Drug Benefits Formulary, and Canada Health Infoway interoperability standards.
               </p>
@@ -198,13 +205,14 @@ export default function Home() {
         </div>
       </div>
 
+      {/* Footer */}
       <div className="bg-gray-900 py-8">
-        <div className="max-w-6xl mx-auto px-8 flex items-center justify-between">
+        <div className="max-w-6xl mx-auto px-4 md:px-8 flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
           <div>
             <div className="text-white font-bold text-sm mb-1">Manitoba Medication Safety Platform</div>
             <div className="text-gray-500 text-xs">Synthetic patient data only · PHIA-compliant architecture · Real Manitoba formulary data</div>
           </div>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             {['FHIR R4', 'HL7', 'DPIN', 'Next.js', 'Supabase'].map(tag => (
               <span key={tag} className="text-[10px] font-mono text-gray-500 bg-gray-800 px-2 py-1 rounded">{tag}</span>
             ))}
