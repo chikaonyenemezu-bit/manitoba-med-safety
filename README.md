@@ -22,10 +22,10 @@ Every pharmacy in Manitoba connects to DPIN. Every prescription dispensed in the
 Published by Manitoba Health. Effective April 1, 2026. All formulary data in this platform — DINs, pricing, interchangeable groups, formulary status — is sourced directly from the Manitoba Drug Benefits and Interchangeability Formulary.
 
 ### Exception Drug Status (EDS)
-772 drugs approved for Manitoba Pharmacare coverage only when specific clinical criteria are met, as recommended by the Manitoba Drug Standards and Therapeutics Committee (MDSTC). Coverage requires prior approval — prescribers submit EDS applications to Manitoba Drug Programs.
+772 drugs are approved for Manitoba Pharmacare coverage only when specific clinical criteria are met, as recommended by the Manitoba Drug Standards and Therapeutics Committee (MDSTC). Coverage requires prior approval — prescribers submit EDS applications to Manitoba Drug Programs.
 
 ### Health Canada Drug Product Database (DPD)
-The national registry of every drug licensed for sale in Canada. Every drug card in this platform is enriched with authoritative active ingredient data and legal company names from the Health Canada DPD — the national infrastructure underlying every Canadian hospital information system including Meditech Expanse.
+The national registry of every drug licensed for sale in Canada. Every drug card in this platform is enriched with authoritative active ingredient data and legal company names from the Health Canada DPD — the national infrastructure underlying every Canadian hospital information system, including Meditech Expanse.
 
 ### FHIR R4 — Canada Health Infoway ACCESS Health
 Canada Health Infoway is mandating FHIR R4 through the ACCESS Health initiative. Shared Health Manitoba is actively implementing FHIR interfaces. This platform implements a real FHIR R4 Medication API using Manitoba formulary data and Canada Health Infoway pan-Canadian profiles.
@@ -37,7 +37,7 @@ Supported profile: `http://infoway-inforoute.ca/fhir/StructureDefinition/profile
 Medication reconciliation at hospital admission is a Required Organisational Practice under Accreditation Canada standards. The reconciliation simulator demonstrates a digital workflow supporting ROP compliance.
 
 ### PHIA Manitoba
-This platform processes synthetic patient data only. No real personal health information is stored or processed. Architecture is designed with The Personal Health Information Act (Manitoba) in mind.
+This platform processes synthetic patient data only. No real personal health information is stored or processed. Architecture is designed with the Personal Health Information Act (Manitoba) in mind.
 
 ---
 
@@ -70,7 +70,7 @@ Simulates DPIN-integrated admission reconciliation across 10 synthetic clinical 
 
 Each reconciliation detects:
 - **Dose mismatches** — reported dose differs from DPIN dispensed dose
-- **Not reported** — DPIN shows recent dispensing, patient did not mention
+- **Not reported** — DPIN shows recent dispensing, the patient did not mention
 - **Not in DPIN** — patient reports medication not dispensed at any Manitoba pharmacy
 - **PRISCUS flags** — potentially inappropriate medications for patients aged 65+
 - **High-risk combinations** — rule-based pharmacological interaction detection across 17 drug classes
@@ -105,7 +105,7 @@ GET /api/fhir/Medication?identifier=http://health.canada.ca/din|02223562
 
 ## Connection to MedSync
 
-The medication risk analysis engine was originally developed for [MedSync](https://github.com/YOUR_USERNAME/medsync) — a full-stack AI-powered clinical triage and care routing platform built for the German GKV statutory health insurance system.
+The medication risk analysis engine was originally developed for [MedSync](https://github.com/chikaonyenemezu-bit/medsync) — a full-stack AI-powered clinical triage and care routing platform built for the German GKV statutory health insurance system.
 
 In MedSync, a patient describes symptoms via an AI chat interface in German or English. The system triages them using the Manchester Triage System, codes the presentation in SNOMED CT and ICD-10-GM, analyses their medications for dangerous combinations and adverse drug reactions across 17 drug classes, and routes them to the appropriate German care pathway — GP, Bereitschaftsdienst 116117, ED, or emergency ambulance 112.
 
@@ -147,7 +147,7 @@ Health Canada DPD (CSV) ─────────────────┘  
 
 ## Author
 
-Pharmacist and digital health informaticist with MSc degrees in Industrial Pharmacy and Digital Health, relocating to Winnipeg to work in health IT.
+Pharmacist and digital health informaticist with an MSc degree in Industrial Pharmacy.
 
 **MedSync** — (https://github.com/chikaonyenemezu-bit/medsync)  
 AI clinical triage platform for the German GKV system. Manchester Triage System · SNOMED CT · ICD-10-GM · FHIR R4 · PostGIS · 41,869 provider records.
