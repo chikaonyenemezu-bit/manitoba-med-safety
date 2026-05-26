@@ -3,7 +3,7 @@
 **Live:** https://manitoba-med-safety.vercel.app  
 **Stack:** Next.js 15 · TypeScript · Supabase · PostgreSQL · HL7 FHIR R4 · Python
 
-Built by a pharmacist-informaticist who previously developed [MedSync](https://github.com/chikaonyenemezu-bit/medsync) — an AI-powered clinical triage platform for the German GKV statutory health insurance system — adapting the same medication safety intelligence for Manitoba's provincial health infrastructure before relocating to Winnipeg.
+Built by a pharmacist-informaticist who previously developed [MedSync](https://github.com/chikaonyenemezu-bit/medsync) — an AI-powered clinical triage platform for the German GKV statutory health insurance system — adapting the same medication safety intelligence for Manitoba's provincial health infrastructure.
 
 ---
 
