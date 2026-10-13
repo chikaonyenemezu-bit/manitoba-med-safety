@@ -140,10 +140,6 @@ Health Canada DPD (CSV) ─────────────────┘  
 
 ---
 
-## Local Development
-
-
----
 
 ## Author
 
